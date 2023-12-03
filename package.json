@@ -2,8 +2,6 @@
   "name": "insta-guides",
   "version": "0.1.0",
   "private": true,
-  "predeploy" : "npm run build",
-  "deploy" : "gh-pages -d build",
   "homepage": "http://silvochka.github.io/insta-guides",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -18,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

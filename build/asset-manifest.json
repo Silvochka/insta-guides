@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/insta-guides/static/css/main.f855e6bc.css",
+    "main.js": "/insta-guides/static/js/main.51bb9698.js",
+    "static/js/787.ed332ee9.chunk.js": "/insta-guides/static/js/787.ed332ee9.chunk.js",
+    "static/media/logo.svg": "/insta-guides/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/insta-guides/index.html",
+    "main.f855e6bc.css.map": "/insta-guides/static/css/main.f855e6bc.css.map",
+    "main.51bb9698.js.map": "/insta-guides/static/js/main.51bb9698.js.map",
+    "787.ed332ee9.chunk.js.map": "/insta-guides/static/js/787.ed332ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.51bb9698.js"
+  ]
+}
