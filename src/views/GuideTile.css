@@ -1,0 +1,97 @@
+.GuideTile {
+    border-radius: 4px;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    background-color: rgb(54, 54, 54);
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: stretch;
+    display: flex;
+    flex: 50%;
+}
+
+.GuideTile .CoverImage {
+    display: block;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 133.333%;
+    width: 100%;
+    position: relative;
+}
+
+.GuideTile .CoverGradient {
+    align-items: stretch;
+    background: linear-gradient( to top, rgba(0, 0, 0, .4) 0%, rgba(0, 0, 0, 0) 60% );
+    border: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font: inherit;
+    font-size: 100%;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    vertical-align: baseline;
+}
+
+.TitleWrapper {
+    width: 85%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    overflow-y: visible;
+    overflow-x: visible;
+    bottom: 0;
+    border-bottom-left-radius: 0;
+    padding-right: 12px;
+    background-color: transparent;
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    border-bottom-right-radius: 0;
+    flex-shrink: 0;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+    flex-grow: 0;
+    left: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    position: absolute;
+}
+
+.TitleNameWrapper {
+    overflow-y: visible;
+    overflow-x: visible;
+    border-bottom-left-radius: 0;
+    background-color: transparent;
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    border-bottom-right-radius: 0;
+    flex-shrink: 0;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+    position: relative;
+    flex-grow: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    text-align: start;
+}
+
+.TitleTextWrapper {
+    font-size: 14px;
+    line-height: 16px;
+    color: white;
+    font-weight: 700;
+    display: block;
+}
