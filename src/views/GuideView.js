@@ -8,7 +8,7 @@ function GuideView({ parentGuideId, guides, posts, onItemSelected }) {
       <GuideTile key={`guide_${guide.id}`} guide={guide} onClick={onItemSelected}></GuideTile>
     ))}
     {posts.map(post => (
-      <PostTile guideId={parentGuideId} post={post} key={`post_${post.id}`} ></PostTile>
+      <PostTile guideId={parentGuideId} post={post} key={`guide_${parentGuideId}_post_${post.id}`} ></PostTile>
     ))}
   </>
   );

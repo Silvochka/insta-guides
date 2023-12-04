@@ -267,8 +267,53 @@ export const guides = [{
     }]
 },
 {
-    "id": 7,
-    "title": "US - Восточное Побережье",
+    "id": "east-coast",
+    "title": "East coast 🇺🇸",
+    "posts": [{
+        "id": 1,
+        "title": "Washington DC, 04/2023",
+        "link": "instagram://media?id=3190581903092915559_3099591977",
+    }, {
+        "id": 2,
+        "title": "Virginia state",
+        "link": "instagram://media?id=2696045829923259248_3099591977",
+    }, {
+        "id": 3,
+        "title": "DelMarVa peninsula",
+        "link": "instagram://media?id=2684801756796089561_3099591977",
+    }, {
+        "id": 4,
+        "title": "Alexandria, VA",
+        "link": "instagram://media?id=2678167454627525423_3099591977",
+    }, {
+        "id": 5,
+        "title": "Washington DC, 07/2021",
+        "link": "instagram://media?id=2634088917471375624_3099591977",
+    }, {
+        "id": 6,
+        "title": "Philadelphia, PN",
+        "link": "instagram://media?id=2182601159402146461_3099591977",
+    }, {
+        "id": 7,
+        "title": "Нью Йорк, NY",
+        "link": "instagram://media?id=2180436514155304018_3099591977",
+    }, {
+        "id": 8,
+        "title": "Cape Canaveral, FL",
+        "link": "instagram://media?id=2176071718635082293_3099591977",
+    }, {
+        "id": 9,
+        "title": "Mexican Gulf, Tampa, FL",
+        "link": "instagram://media?id=2172439449475237742_3099591977",
+    }, {
+        "id": 10,
+        "title": "Grace Hopper, Orlando, FL",
+        "link": "instagram://media?id=2170272551627383306_3099591977",
+    }, {
+        "id": 11,
+        "title": "Tennis US Open in New York, NY",
+        "link": "instagram://media?id=1598048504658436043_3099591977",
+    },]
 },
 {
     "id": 8,
