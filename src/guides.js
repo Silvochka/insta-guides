@@ -44,7 +44,7 @@ export const guides = [{
 },
 {
     "id": "canada",
-    "title": "Канада 🇨🇦",
+    "title": "Canada 🇨🇦",
     "posts": [{
         "id": 1,
         "title": "Канадский хоккей",
@@ -76,8 +76,21 @@ export const guides = [{
     },]
 },
 {
-    "id": 3,
-    "title": "Мексика 🇲🇽",
+    "id": "mexico",
+    "title": "Mexico 🇲🇽",
+    "posts": [{
+        "id": 1,
+        "title": "Cabo San Lucas",
+        "link": "instagram://media?id=2429687751095109928_3099591977",
+    }, {
+        "id": 2,
+        "title": "Кабо - Экскурсия в море",
+        "link": "instagram://media?id=2434037176890384355_3099591977",
+    },{
+        "id": 3,
+        "title": "Тихий океан в Кабо",
+        "link": "instagram://media?id=2446181138535047380_3099591977",
+    }]
 },
 {
     "id": 4,
