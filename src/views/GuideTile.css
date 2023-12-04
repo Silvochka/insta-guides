@@ -95,3 +95,33 @@
     font-weight: 700;
     display: block;
 }
+
+.TitleCountWrapper {
+    overflow-y: visible;
+    margin-bottom: 0;
+    overflow-x: visible;
+    border-bottom-left-radius: 0;
+    background-color: transparent;
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    border-bottom-right-radius: 0;
+    flex-shrink: 0;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+    position: relative;
+    flex-grow: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    text-align: start;
+}
+
+.TitleNumberWrapper {
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: -2px;
+    color: white;
+    display: block;
+    line-height: 18px;
+}

@@ -2,7 +2,7 @@ import './GuideTile.css';
 
 const covers = require.context('../../public/images/covers', true);
 
-function GuideTile({ guide }) {
+function GuideTile({ guide, onClick }) {
     try {
         covers(`./guide-${guide.id}.jpeg`);
     } catch {
@@ -10,12 +10,18 @@ function GuideTile({ guide }) {
     }
 
     let coverSrc = covers(`./guide-${guide.id}.jpeg`);
-    console.log(coverSrc);
     return (
-        <div className="GuideTile">
+        <div className="GuideTile" onClick={() => onClick(guide)}>
             <div style={{ backgroundImage: `url(${coverSrc})` }} className="CoverImage" />
             <div className="CoverGradient" />
             <div className="TitleWrapper" >
+                {guide.posts != null &&
+                    <div className="TitleCountWrapper" >
+                        <div className="TitleNumberWrapper" >
+                            {guide.posts.length} items
+                        </div>
+                    </div>
+                }
                 <div className="TitleNameWrapper" >
                     <div className="TitleTextWrapper" >
                         {guide.title}
@@ -23,7 +29,8 @@ function GuideTile({ guide }) {
                 </div>
             </div>
 
-        </div>);
+        </div>
+    );
 }
 
 export default GuideTile;
