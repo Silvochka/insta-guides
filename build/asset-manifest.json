@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/insta-guides/static/css/main.be7755fe.css",
-    "main.js": "/insta-guides/static/js/main.e0b33766.js",
+    "main.css": "/insta-guides/static/css/main.b5ab5423.css",
+    "main.js": "/insta-guides/static/js/main.e85b3a96.js",
     "static/js/787.ed332ee9.chunk.js": "/insta-guides/static/js/787.ed332ee9.chunk.js",
     "static/media/guide-10.jpeg": "/insta-guides/static/media/guide-10.ac7d4947e30eb843b0ba.jpeg",
     "static/media/guide-13.jpeg": "/insta-guides/static/media/guide-13.abf5e88107f3b69cd444.jpeg",
@@ -34,12 +34,12 @@
     "static/media/post_1_1.jpeg": "/insta-guides/static/media/post_1_1.9099546a07f4f9a3a0d2.jpeg",
     "static/media/post_1_2.jpeg": "/insta-guides/static/media/post_1_2.09369f569c97866829f4.jpeg",
     "index.html": "/insta-guides/index.html",
-    "main.be7755fe.css.map": "/insta-guides/static/css/main.be7755fe.css.map",
-    "main.e0b33766.js.map": "/insta-guides/static/js/main.e0b33766.js.map",
+    "main.b5ab5423.css.map": "/insta-guides/static/css/main.b5ab5423.css.map",
+    "main.e85b3a96.js.map": "/insta-guides/static/js/main.e85b3a96.js.map",
     "787.ed332ee9.chunk.js.map": "/insta-guides/static/js/787.ed332ee9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be7755fe.css",
-    "static/js/main.e0b33766.js"
+    "static/css/main.b5ab5423.css",
+    "static/js/main.e85b3a96.js"
   ]
 }
