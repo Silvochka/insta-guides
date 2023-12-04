@@ -43,8 +43,37 @@ export const guides = [{
     }]
 },
 {
-    "id": 2,
+    "id": "canada",
     "title": "Канада 🇨🇦",
+    "posts": [{
+        "id": 1,
+        "title": "Канадский хоккей",
+        "link": "instagram://media?id=2815286648365494044_3099591977",
+    }, {
+        "id": 2,
+        "title": "Whistler",
+        "link": "instagram://media?id=2800025999007829044_3099591977",
+    },{
+        "id": 3,
+        "title": "Ищем китов",
+        "link": "instagram://media?id=2718629780189995318_3099591977",
+    },{
+        "id": 4,
+        "title": "Grouse mountain",
+        "link": "instagram://media?id=2267954199459534791_3099591977",
+    },{
+        "id": 5,
+        "title": "Horseshoe Bay",
+        "link": "instagram://media?id=2218096842146469163_3099591977",
+    },{
+        "id": 6,
+        "title": "Северный Ванкувер",
+        "link": "instagram://media?id=2202845973553600459_3099591977",
+    },{
+        "id": 7,
+        "title": "Ванкувер",
+        "link": "instagram://media?id=2197813379598126616_3099591977",
+    },]
 },
 {
     "id": 3,
