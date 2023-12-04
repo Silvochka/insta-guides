@@ -2,7 +2,7 @@ export const guides = [{
     "id": "turkey",
     "title": "Turkey 🇹🇷",
     "guides": [{
-        "id": "istanbul",
+        "id": "turkey/istanbul",
         "title": "Istanbul",
         "posts": [{
             "id": 1,
@@ -27,7 +27,7 @@ export const guides = [{
             "link": "instagram://media?id=3229843209151349848_3099591977",
         }]
     }, {
-        "id": "cappadocia",
+        "id": "turkey/cappadocia",
         "title": "Cappadocia",
         "posts": [
             {
