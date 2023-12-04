@@ -5,28 +5,28 @@ export const guides = [{
         {
             "id": 1,
             "title": "Historic Istanbul",
-            "link": "https://www.instagram.com/p/Cx3fQllP53NMbfXy9a6o9J0Tx93r3ljQwQBvks0/"
+            "link": "instagram://media?id=3204167139204242893_3099591977",
         }, {
             "id": 2,
             "title": "Golden Horn",
-            "link": "https://www.instagram.com/p/CzkXgIjpOohx9WuNvvAGD6dMUOSqI3VBDWyCO40/"
+            "link": "instagram://media?id=3234813795639814689_3099591977",
         }, {
             "id": 3,
             "title": "Istanbul overview",
-            "link": "https://www.instagram.com/p/CzzMAliPeYbYVaJgnQc_hmX5u39pw9SoeosIlY0/",
+            "link": "instagram://media?id=3238985373870581275_3099591977",
             "type": "reel"
         }, {
             "id": 4,
             "title": "Prince Islands",
-            "link": "https://www.instagram.com/p/CyOiEcqpK24oS85ISN66CG94qobZsrjQA2pg6o0/"
+            "link": "instagram://media?id=3210653423601233336_3099591977",
         }, {
             "id": 5,
             "title": "Anadolu Kavagi",
-            "link": "https://www.instagram.com/p/CzStUlJrIRYUzkYfMYGMaStBkqM3ogknQlDdAU0/"
+            "link": "instagram://media?id=3229843209151349848_3099591977",
         }, {
             "id": 6,
             "title": "Cappadocia: Uchisar Kalesi",
-            "link": "https://www.instagram.com/p/C0BLsaPuauENXqvbRgTShQTcwhFUjN-uxDU-Ok0/"
+            "link": "instagram://media?id=3242924637033180036_3099591977",
         }
     ]
 },
