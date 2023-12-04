@@ -12,7 +12,7 @@ function PostTile({ guide, post }) {
 
     let coverSrc = covers(`./post_${guide.id}_${post.id}.jpeg`);
     return (
-        <div className="GuideTile">
+        <a className="GuideTile" href={post.link}>
             <div style={{ backgroundImage: `url(${coverSrc})` }} className="CoverImage" />
             <div className="CoverGradient" />
             <div className="TitleWrapper" >
@@ -28,7 +28,7 @@ function PostTile({ guide, post }) {
                 </div>
             }
 
-        </div>
+        </a>
     );
 }
 
