@@ -16,7 +16,7 @@ export const guides = [{
             "id": 3,
             "title": "Istanbul overview",
             "link": "instagram://media?id=3238985373870581275_3099591977",
-            "type": "reel"
+            "type": "video"
         }, {
             "id": 4,
             "title": "Prince Islands",
@@ -122,6 +122,7 @@ export const guides = [{
             "id": 5,
             "title": "Новый год",
             "link": "instagram://media?id=1686223017514173319_3099591977",
+            "type": "video"
         }, {
             "id": 6,
             "title": "Музейная площадь",
@@ -138,6 +139,7 @@ export const guides = [{
             "id": 9,
             "title": "Концерт Шакиры",
             "link": "instagram://media?id=1798464614554233203_3099591977",
+            "type": "video"
         }, {
             "id": 10,
             "title": "Офис",
