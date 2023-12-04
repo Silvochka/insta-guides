@@ -34,6 +34,10 @@ export const guides = [{
                 "id": 1,
                 "title": "Uchisar Kalesi",
                 "link": "instagram://media?id=3242924637033180036_3099591977",
+            }, {
+                "id": 2,
+                "title": "Rose Valley",
+                "link": "instagram://media?id=3250024080633870558_3099591977",
             }
         ]
     }]
