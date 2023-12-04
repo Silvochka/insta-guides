@@ -247,7 +247,7 @@ export const guides = [{
     }, {
         "id": 16,
         "title": "Прощание",
-        "link": "instagram://media?id=1921697818469612145_3099591977ы",
+        "link": "instagram://media?id=1921697818469612145_3099591977",
     }]
 },
 {
