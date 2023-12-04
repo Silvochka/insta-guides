@@ -172,7 +172,7 @@ export const guides = [{
             "id": 6,
             "title": "Haarlem",
             "link": "instagram://media?id=1742773643909134377_3099591977",
-        },  {
+        }, {
             "id": 9,
             "title": "Гаага",
             "link": "instagram://media?id=1801789710689708629_3099591977",
@@ -232,7 +232,7 @@ export const guides = [{
     }, {
         "id": "netherlands/nature",
         "title": "Природа",
-        "posts": [ {
+        "posts": [{
             "id": 1,
             "title": "Тюльпановые поля",
             "link": "instagram://media?id=1756072012693871800_3099591977",
@@ -247,11 +247,24 @@ export const guides = [{
         },
         ]
     }],
-
 },
 {
-    "id": 6,
-    "title": "Caribbean",
+    "id": "caribbean",
+    "title": "Caribbean 🏖",
+    "posts": [{
+        "id": 1,
+        "title": "Turks and Caicos 🇹🇨",
+        "link": "instagram://media?id=3176718604343775996_3099591977",
+    }, {
+        "id": 2,
+        "title": "Snorkeling, diving 🤿",
+        "link": "instagram://media?id=3180499376467108527_3099591977",
+    }, {
+        "id": 3,
+        "title": "Turks and Caicos overview 🇹🇨",
+        "link": "instagram://media?id=3178225944019632347_3099591977",
+        "type": "video"
+    }]
 },
 {
     "id": 7,
