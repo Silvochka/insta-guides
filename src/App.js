@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import './App.css';
 import { guides } from "./guides";
-import GuideTile from "./views/GuideTile";
 import GuideView from "./views/GuideView";
 
 function App() {
@@ -35,13 +34,9 @@ function App() {
           ? null
           : <div className="SpaceFillter" />}
       </header>
-      {selectedGuide == null
-        ? <div className="GuidesList">
-          {guides.map(guide => (
-            <GuideTile key={`guide_${guide.id}`} guide={guide} onClick={onItemSelected}></GuideTile>
-          ))}
-        </div>
-        : <GuideView guide={selectedGuide} />}
+      <div className="GuidesList">
+        <GuideView parentGuideId={selectedGuide?.id} guides={selectedGuide != null ? (selectedGuide.guides ?? []) : guides} posts={selectedGuide?.posts ?? []} onItemSelected={onItemSelected} />
+      </div>
     </div>
   );
 }

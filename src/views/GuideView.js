@@ -1,14 +1,16 @@
-import './GuideView.css';
 import PostTile from "./PostTile";
+import GuideTile from "./GuideTile";
 
-function GuideView({guide}) {
+function GuideView({ parentGuideId, guides, posts, onItemSelected }) {
 
-  return (
-    <div className="GuidesList">
-    {guide.posts.map(post => (
-      <PostTile guide={guide} post={post} key={`post_${post.id}`} ></PostTile>
+  return (<>
+    {guides.map(guide => (
+      <GuideTile key={`guide_${guide.id}`} guide={guide} onClick={onItemSelected}></GuideTile>
     ))}
-  </div>
+    {posts.map(post => (
+      <PostTile guideId={parentGuideId} post={post} key={`post_${post.id}`} ></PostTile>
+    ))}
+  </>
   );
 }
 

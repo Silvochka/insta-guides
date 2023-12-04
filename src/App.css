@@ -20,6 +20,7 @@
   grid-template-columns: 1fr 1fr;
   grid-gap: 16px;
   margin: 16px;
+  margin-top: 0px;
 }
 
 .BackButton {

@@ -1,8 +1,10 @@
 export const guides = [{
-    "id": 1,
+    "id": "turkey",
     "title": "Turkey 🇹🇷",
-    "posts": [
-        {
+    "guides": [{
+        "id": "istanbul",
+        "title": "Istanbul",
+        "posts": [{
             "id": 1,
             "title": "Historic Istanbul",
             "link": "instagram://media?id=3204167139204242893_3099591977",
@@ -23,12 +25,18 @@ export const guides = [{
             "id": 5,
             "title": "Anadolu Kavagi",
             "link": "instagram://media?id=3229843209151349848_3099591977",
-        }, {
-            "id": 6,
-            "title": "Cappadocia: Uchisar Kalesi",
-            "link": "instagram://media?id=3242924637033180036_3099591977",
-        }
-    ]
+        }]
+    }, {
+        "id": "cappadocia",
+        "title": "Cappadocia",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Uchisar Kalesi",
+                "link": "instagram://media?id=3242924637033180036_3099591977",
+            }
+        ]
+    }]
 },
 {
     "id": 2,
