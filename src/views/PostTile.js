@@ -4,13 +4,14 @@ import './PostTile.css';
 const covers = require.context('../../public/images', true);
 
 function PostTile({ guideId, post }) {
+    const imagePath = `./${guideId}/post_${post.id}.jpeg`;
     try {
-        covers(`./${guideId}/post_${post.id}.jpeg`);
+        covers(imagePath);
     } catch {
-        return <div />;
+        return null;
     }
 
-    let coverSrc = covers(`./${guideId}/post_${post.id}.jpeg`);
+    let coverSrc = covers(imagePath);
     return (
         <a className="GuideTile" href={post.link}>
             <div style={{ backgroundImage: `url(${coverSrc})` }} className="CoverImage" />

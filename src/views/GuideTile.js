@@ -7,13 +7,14 @@ function getCount(guide) {
 }
 
 function GuideTile({ guide, onClick }) {
+    const imagePath = `./${guide.id}/cover.jpeg`;
     try {
-        covers(`./${guide.id}/cover.jpeg`);
+        covers(imagePath);
     } catch {
-        return <div />;
+        return null;
     }
 
-    let coverSrc = covers(`./${guide.id}/cover.jpeg`);
+    let coverSrc = covers(imagePath);
     let count = getCount(guide);
     return (
         <div className="GuideTile" onClick={() => onClick(guide)}>
