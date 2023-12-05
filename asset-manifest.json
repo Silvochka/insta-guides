@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/insta-guides/static/css/main.aae20589.css",
-    "main.js": "/insta-guides/static/js/main.d8127364.js",
+    "main.js": "/insta-guides/static/js/main.7d34cf04.js",
     "static/js/787.ed332ee9.chunk.js": "/insta-guides/static/js/787.ed332ee9.chunk.js",
     "static/media/post_1.jpeg": "/insta-guides/static/media/post_1.c327da82883cb650ad91.jpeg",
     "static/media/guide-10.jpeg": "/insta-guides/static/media/guide-10.ac7d4947e30eb843b0ba.jpeg",
@@ -17,8 +17,8 @@
     "static/media/guide-13.jpeg": "/insta-guides/static/media/guide-13.abf5e88107f3b69cd444.jpeg",
     "static/media/post_7.jpeg": "/insta-guides/static/media/post_7.e2bf8f8c5cd46f7ef842.jpeg",
     "static/media/guide-17.jpeg": "/insta-guides/static/media/guide-17.98d8ad942548adf2dde4.jpeg",
-    "static/media/post_6.jpeg": "/insta-guides/static/media/post_6.fb89c8e33f3648544c53.jpeg",
     "static/media/cover.jpeg": "/insta-guides/static/media/cover.09369f569c97866829f4.jpeg",
+    "static/media/post_6.jpeg": "/insta-guides/static/media/post_6.fb89c8e33f3648544c53.jpeg",
     "static/media/post_14.jpeg": "/insta-guides/static/media/post_14.8373368dc4b7c9e69975.jpeg",
     "static/media/post_12.jpeg": "/insta-guides/static/media/post_12.676c3b291998aa81f239.jpeg",
     "static/media/guide-14.jpeg": "/insta-guides/static/media/guide-14.fbf83c64d66fbaf3826d.jpeg",
@@ -37,11 +37,11 @@
     "static/media/post_0.jpeg": "/insta-guides/static/media/post_0.fd3562181a02b3f73c32.jpeg",
     "index.html": "/insta-guides/index.html",
     "main.aae20589.css.map": "/insta-guides/static/css/main.aae20589.css.map",
-    "main.d8127364.js.map": "/insta-guides/static/js/main.d8127364.js.map",
+    "main.7d34cf04.js.map": "/insta-guides/static/js/main.7d34cf04.js.map",
     "787.ed332ee9.chunk.js.map": "/insta-guides/static/js/787.ed332ee9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aae20589.css",
-    "static/js/main.d8127364.js"
+    "static/js/main.7d34cf04.js"
   ]
 }
