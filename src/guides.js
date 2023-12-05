@@ -328,8 +328,37 @@ export const guides = [
         }],
     },
     {
-        "id": 10,
+        "id": "oregon",
         "title": "Oregon",
+        "posts": [{
+            "id": 1,
+            "title": "Cannon Beach / Seaside / Cape Disappointment",
+            "link": "instagram://media?id=3021014736758019332_3099591977",
+        }, {
+            "id": 2,
+            "title": "Rowena Crest and waterfalls",
+            "link": "instagram://media?id=3005600041722137506_3099591977",
+        }, {
+            "id": 3,
+            "title": "Portland / Nogu Svelo / Cannon Beach",
+            "link": "instagram://media?id=2185522833186052285_3099591977",
+        }, {
+            "id": 4,
+            "title": "Smith Rock state park",
+            "link": "instagram://media?id=2053575318513744883_3099591977",
+        }, {
+            "id": 5,
+            "title": "Crater Lake NP",
+            "link": "instagram://media?id=2050978650719138372_3099591977",
+        }, {
+            "id": 6,
+            "title": "Newport",
+            "link": "instagram://media?id=2034746237596959809_3099591977",
+        }, {
+            "id": 7,
+            "title": "Yaquina Head",
+            "link": "instagram://media?id=2031459192254235961_3099591977",
+        }, ]
     },
     {
         "id": 11,
@@ -358,7 +387,7 @@ export const guides = [
     {
         "id": "activities",
         "title": "Activities",
-        "guides":[{
+        "guides": [{
             "id": "activities/snorkeling",
             "title": "Snorkeling 🤿",
             "posts": [{
@@ -374,8 +403,7 @@ export const guides = [
                 "title": "On Turks and Caicos",
                 "link": "instagram://media?id=3180499376467108527_3099591977",
             },]
-        },
-        {
+        }, {
             "id": "activities/skiing",
             "title": "Skiing 🎿",
             "posts": [{
@@ -400,8 +428,7 @@ export const guides = [
                 "title": "Snoqualmie Pass, WA 2019",
                 "link": "instagram://media?id=2012242795724853417_3099591977",
             }]
-        },
-        {
+        }, {
             "id": "activities/concerts",
             "title": "Концерты",
             "posts": [{
