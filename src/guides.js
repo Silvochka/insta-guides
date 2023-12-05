@@ -319,8 +319,45 @@ export const guides = [
         "title": "Washington Olympic Peninsula",
     },
     {
-        "id": 21,
+        "id": 'tx-2020',
         "title": "10 дней в Техасе",
+        "posts": [{
+            "id": 1,
+            "title": "Big Bend National Park - День 1",
+            "link": "instagram://media?id=2500056244720871063_3099591977",
+        }, {
+            "id": 2,
+            "title": "Big Bend National Park - День 2",
+            "link": "instagram://media?id=2502274994358509526_3099591977",
+        }, {
+            "id": 3,
+            "title": "Сан Антонио",
+            "link": "instagram://media?id=2505136444487964540_3099591977",
+        }, {
+            "id": 4,
+            "title": "Гальвестон",
+            "link": "instagram://media?id=2507328088419219527_3099591977",
+        }, {
+            "id": 5,
+            "title": "Хьюстон",
+            "link": "instagram://media?id=2512379512358308371_3099591977",
+        }, {
+            "id": 6,
+            "title": "Остин",
+            "link": "instagram://media?id=2517450164354207887_3099591977",
+        }, {
+            "id": 7,
+            "title": "Даллас",
+            "link": "instagram://media?id=2522525298618509713_3099591977",
+        }, {
+            "id": 8,
+            "title": "Fort Worth",
+            "link": "instagram://media?id=2529760936195342111_3099591977",
+        }, {
+            "id": 9,
+            "title": "Обзорная по Техасу",
+            "link": "instagram://media?id=2536246646269229278_3099591977",
+        },]
     },
     {
         "id": "wa-or-ca-nv-2019",
