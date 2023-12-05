@@ -356,8 +356,25 @@ export const guides = [
         "title": "US Mountain West states",
     },
     {
+        "id": "snorkeling",
+        "title": "Snorkeling 🤿",
+        "posts": [{
+            "id": 1,
+            "title": "On Maui, Hawaii",
+            "link": "instagram://media?id=2779699598118996787_3099591977",
+        }, {
+            "id": 2,
+            "title": "On Big Island, Hawaii",
+            "link": "instagram://media?id=3071710655396949142_3099591977",
+        }, {
+            "id": 3,
+            "title": "On Turks and Caicos",
+            "link": "instagram://media?id=3180499376467108527_3099591977",
+        },]
+    },
+    {
         "id": "skiing",
-        "title": "Skiing",
+        "title": "Skiing 🎿",
         "posts": [{
             "id": 1,
             "title": "Baker/Stevens, WA 2022",
