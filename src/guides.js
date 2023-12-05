@@ -319,89 +319,93 @@ export const guides = [
         "title": "Washington Olympic Peninsula",
     },
     {
-        "id": 'tx-2020',
-        "title": "10 дней в Техасе",
-        "posts": [{
-            "id": 1,
-            "title": "Big Bend National Park - День 1",
-            "link": "instagram://media?id=2500056244720871063_3099591977",
-        }, {
-            "id": 2,
-            "title": "Big Bend National Park - День 2",
-            "link": "instagram://media?id=2502274994358509526_3099591977",
-        }, {
-            "id": 3,
-            "title": "Сан Антонио",
-            "link": "instagram://media?id=2505136444487964540_3099591977",
-        }, {
-            "id": 4,
-            "title": "Гальвестон",
-            "link": "instagram://media?id=2507328088419219527_3099591977",
-        }, {
-            "id": 5,
-            "title": "Хьюстон",
-            "link": "instagram://media?id=2512379512358308371_3099591977",
-        }, {
-            "id": 6,
-            "title": "Остин",
-            "link": "instagram://media?id=2517450164354207887_3099591977",
-        }, {
-            "id": 7,
-            "title": "Даллас",
-            "link": "instagram://media?id=2522525298618509713_3099591977",
-        }, {
-            "id": 8,
-            "title": "Fort Worth",
-            "link": "instagram://media?id=2529760936195342111_3099591977",
-        }, {
-            "id": 9,
-            "title": "Обзорная по Техасу",
-            "link": "instagram://media?id=2536246646269229278_3099591977",
-        },]
-    },
-    {
-        "id": "wa-or-ca-nv-2019",
-        "title": "10 дней в WA/OR/CA/NV",
-        "posts": [{
-            "id": 1,
-            "title": "День 1: Орегон",
-            "link": "instagram://media?id=2031459192254235961_3099591977",
-        }, {
-            "id": 2,
-            "title": "День 2: Все ещё Орегон",
-            "link": "instagram://media?id=2034746237596959809_3099591977",
-        }, {
-            "id": 3,
-            "title": "День 3: Редвуд, Калифорния",
-            "link": "instagram://media?id=2037640841853760959_3099591977",
-        }, {
-            "id": 4,
-            "title": "День 4: Сан Франциско",
-            "link": "instagram://media?id=2040536333751353137_3099591977",
-        }, {
-            "id": 5,
-            "title": "День 5: Силиконовая долина",
-            "link": "instagram://media?id=2043765773851505359_3099591977",
-        }, {
-            "id": 6,
-            "title": "День 6: Долина Напа, Сакраменто",
-            "link": "instagram://media?id=2045939672899031259_3099591977",
-        }, {
-            "id": 7,
-            "title": "День 7: Озеро Тахо",
-            "link": "instagram://media?id=2048089169141695825_3099591977",
-        }, {
-            "id": 8,
-            "title": "День 8: Невада",
-            "link": "instagram://media?id=2049493516073423295_3099591977",
-        }, {
-            "id": 9,
-            "title": "День 9: Кратерное Озеро",
-            "link": "instagram://media?id=2050978650719138372_3099591977",
-        }, {
-            "id": 10,
-            "title": "День 10: Каньон Орегона",
-            "link": "instagram://media?id=2053575318513744883_3099591977",
+        "id": "road-trips",
+        "title": "Road trips",
+        "guides": [{
+            "id": "road-trips/wa-or-ca-nv-2019",
+            "title": "10 дней в WA/OR/CA/NV",
+            "posts": [{
+                "id": 1,
+                "title": "День 1: Орегон",
+                "link": "instagram://media?id=2031459192254235961_3099591977",
+            }, {
+                "id": 2,
+                "title": "День 2: Все ещё Орегон",
+                "link": "instagram://media?id=2034746237596959809_3099591977",
+            }, {
+                "id": 3,
+                "title": "День 3: Редвуд, Калифорния",
+                "link": "instagram://media?id=2037640841853760959_3099591977",
+            }, {
+                "id": 4,
+                "title": "День 4: Сан Франциско",
+                "link": "instagram://media?id=2040536333751353137_3099591977",
+            }, {
+                "id": 5,
+                "title": "День 5: Силиконовая долина",
+                "link": "instagram://media?id=2043765773851505359_3099591977",
+            }, {
+                "id": 6,
+                "title": "День 6: Долина Напа, Сакраменто",
+                "link": "instagram://media?id=2045939672899031259_3099591977",
+            }, {
+                "id": 7,
+                "title": "День 7: Озеро Тахо",
+                "link": "instagram://media?id=2048089169141695825_3099591977",
+            }, {
+                "id": 8,
+                "title": "День 8: Невада",
+                "link": "instagram://media?id=2049493516073423295_3099591977",
+            }, {
+                "id": 9,
+                "title": "День 9: Кратерное Озеро",
+                "link": "instagram://media?id=2050978650719138372_3099591977",
+            }, {
+                "id": 10,
+                "title": "День 10: Каньон Орегона",
+                "link": "instagram://media?id=2053575318513744883_3099591977",
+            },]
+        },
+        {
+            "id": "road-trips/tx-2020",
+            "title": "10 дней в Техасе",
+            "posts": [{
+                "id": 1,
+                "title": "Big Bend National Park - День 1",
+                "link": "instagram://media?id=2500056244720871063_3099591977",
+            }, {
+                "id": 2,
+                "title": "Big Bend National Park - День 2",
+                "link": "instagram://media?id=2502274994358509526_3099591977",
+            }, {
+                "id": 3,
+                "title": "Сан Антонио",
+                "link": "instagram://media?id=2505136444487964540_3099591977",
+            }, {
+                "id": 4,
+                "title": "Гальвестон",
+                "link": "instagram://media?id=2507328088419219527_3099591977",
+            }, {
+                "id": 5,
+                "title": "Хьюстон",
+                "link": "instagram://media?id=2512379512358308371_3099591977",
+            }, {
+                "id": 6,
+                "title": "Остин",
+                "link": "instagram://media?id=2517450164354207887_3099591977",
+            }, {
+                "id": 7,
+                "title": "Даллас",
+                "link": "instagram://media?id=2522525298618509713_3099591977",
+            }, {
+                "id": 8,
+                "title": "Fort Worth",
+                "link": "instagram://media?id=2529760936195342111_3099591977",
+            }, {
+                "id": 9,
+                "title": "Обзорная по Техасу",
+                "link": "instagram://media?id=2536246646269229278_3099591977",
+            },]
         },]
     },
     {
