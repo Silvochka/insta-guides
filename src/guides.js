@@ -356,8 +356,30 @@ export const guides = [
         "title": "US Mountain West states",
     },
     {
-        "id": 18,
-        "title": "Катаемся с гор",
+        "id": "skiing",
+        "title": "Skiing",
+        "posts": [{
+            "id": 1,
+            "title": "Baker/Stevens, WA 2022",
+            "link": "instagram://media?id=2821097287013096278_3099591977",
+        }, {
+            "id": 2,
+            "title": "Whistler, Canada 2021",
+            "link": "instagram://media?id=2800025999007829044_3099591977",
+        }, {
+            "id": 3,
+            "title": "Grouse Mountain, Canada 2020",
+            "link": "instagram://media?id=2267954199459534791_3099591977",
+        }, {
+            "id": 4,
+            "title": "Snoqualmie Pass, WA 2020",
+            "link": "instagram://media?id=2307824573764490572_3099591977",
+            "type": "video"
+        }, {
+            "id": 5,
+            "title": "Snoqualmie Pass, WA 2019",
+            "link": "instagram://media?id=2012242795724853417_3099591977",
+        }]
     },
     {
         "id": 19,
