@@ -24,7 +24,7 @@ function GuideTile({ guide, onClick }) {
                 {count > 0 &&
                     <div className="TitleCountWrapper" >
                         <div className="TitleNumberWrapper" >
-                            {count} item{count > 1 ? 's' : '' }
+                            {count} post{count > 1 ? 's' : '' }
                         </div>
                     </div>
                 }
