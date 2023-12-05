@@ -123,162 +123,6 @@ export const guides = [
         }]
     },
     {
-        "id": "netherlands",
-        "title": "Netherlands 🇳🇱",
-        "guides": [{
-            "id": "netherlands/year-in-amsterdam",
-            "title": "Наш год в Амстердаме",
-            "posts": [{
-                "id": 1,
-                "title": "Первые впечатления",
-                "link": "instagram://media?id=1611857522910324172_3099591977",
-            }, {
-                "id": 2,
-                "title": "Осеннее настроение",
-                "link": "instagram://media?id=1617652056059707500_3099591977",
-            }, {
-                "id": 17,
-                "title": "Унесённая ветром",
-                "link": "instagram://media?id=1695920060500896724_3099591977",
-            }, {
-                "id": 3,
-                "title": "Изучаю язык",
-                "link": "instagram://media?id=1652876739293781252_3099591977",
-            }, {
-                "id": 4,
-                "title": "Снежная зима",
-                "link": "instagram://media?id=1667581049516700841_3099591977",
-            }, {
-                "id": 5,
-                "title": "Новый год",
-                "link": "instagram://media?id=1686223017514173319_3099591977",
-                "type": "video"
-            }, {
-                "id": 6,
-                "title": "Музейная площадь",
-                "link": "instagram://media?id=1691589297177533374_3099591977",
-            }, {
-                "id": 7,
-                "title": "Мой велосипед, хоть и не надолго",
-                "link": "instagram://media?id=1726162014274670856_3099591977",
-            }, {
-                "id": 8,
-                "title": "Амстердам летом",
-                "link": "instagram://media?id=1834895783042632818_3099591977",
-            }, {
-                "id": 9,
-                "title": "Концерт Шакиры",
-                "link": "instagram://media?id=1798464614554233203_3099591977",
-                "type": "video"
-            }, {
-                "id": 10,
-                "title": "Офис",
-                "link": "instagram://media?id=1855170486290179278_3099591977",
-            }, {
-                "id": 11,
-                "title": "Велосипеды",
-                "link": "instagram://media?id=1869589328549245815_3099591977",
-            }, {
-                "id": 12,
-                "title": "Музеи",
-                "link": "instagram://media?id=1904627591235845860_3099591977",
-            }, {
-                "id": 14,
-                "title": "Язык",
-                "link": "instagram://media?id=1913743228373784500_3099591977",
-            }, {
-                "id": 15,
-                "title": "Кухня",
-                "link": "instagram://media?id=1918801667881711895_3099591977",
-            }, {
-                "id": 16,
-                "title": "Прощание",
-                "link": "instagram://media?id=1921697818469612145_3099591977",
-            }]
-        }, {
-            "id": "netherlands/cities",
-            "title": "Города",
-            "posts": [{
-                "id": 6,
-                "title": "Haarlem",
-                "link": "instagram://media?id=1742773643909134377_3099591977",
-            }, {
-                "id": 9,
-                "title": "Гаага",
-                "link": "instagram://media?id=1801789710689708629_3099591977",
-            }, {
-                "id": 3,
-                "title": "Utrecht",
-                "link": "instagram://media?id=1682160885891482943_3099591977",
-            }, {
-                "id": 8,
-                "title": "Utrecht летом",
-                "link": "instagram://media?id=1793531068299514190_3099591977",
-            }, {
-                "id": 5,
-                "title": "Rotterdam",
-                "link": "instagram://media?id=1702219056097963307_3099591977",
-            }, {
-                "id": 10,
-                "title": "Kinderdijk и летний Rotterdam",
-                "link": "instagram://media?id=1809044604811358739_3099591977",
-            }, {
-                "id": 1,
-                "title": "Edam",
-                "link": "instagram://media?id=1677100357544510903_3099591977",
-            }, {
-                "id": 2,
-                "title": "Volendam",
-                "link": "instagram://media?id=1677114753326845902_3099591977",
-            }, {
-                "id": 11,
-                "title": "Marken",
-                "link": "instagram://media?id=1813336949367061130_3099591977",
-            }, {
-                "id": 12,
-                "title": "Den Helder",
-                "link": "instagram://media?id=1816593742243485476_3099591977",
-            }, {
-                "id": 13,
-                "title": "Lelistad",
-                "link": "instagram://media?id=1819946193495313734_3099591977",
-            }, {
-                "id": 14,
-                "title": "Zaanse Schans",
-                "link": "instagram://media?id=1822492011310068527_3099591977",
-            }, {
-                "id": 15,
-                "title": "Leiden",
-                "link": "instagram://media?id=1837070469562342887_3099591977",
-            }, {
-                "id": 17,
-                "title": "Muiden",
-                "link": "instagram://media?id=1852966453038713924_3099591977",
-            }, {
-                "id": 18,
-                "title": "Horn",
-                "link": "instagram://media?id=1899127003955452451_3099591977",
-            }]
-        }, {
-            "id": "netherlands/nature",
-            "title": "Природа",
-            "posts": [{
-                "id": 1,
-                "title": "Тюльпановые поля",
-                "link": "instagram://media?id=1756072012693871800_3099591977",
-            }, {
-                "id": 2,
-                "title": "Северное море",
-                "link": "instagram://media?id=1841343631930155059_3099591977",
-            }, {
-                "id": 3,
-                "title": "Природа и география страны",
-                "link": "instagram://media?id=1908642127517364543_3099591977",
-            },
-            ]
-        }],
-    },
-    {
         "id": "caribbean",
         "title": "Caribbean 🏖",
         "posts": [{
@@ -488,79 +332,251 @@ export const guides = [
     },
     {
         "id": "europe",
-        "title": "Западная Европа",
+        "title": "Europe 🇪🇺",
+        "guides": [{
+            "id": "europe/netherlands",
+            "title": "Netherlands 🇳🇱",
+            "guides": [{
+                "id": "europe/netherlands/year-in-amsterdam",
+                "title": "Наш год в Амстердаме",
+                "posts": [{
+                    "id": 1,
+                    "title": "Первые впечатления",
+                    "link": "instagram://media?id=1611857522910324172_3099591977",
+                }, {
+                    "id": 2,
+                    "title": "Осеннее настроение",
+                    "link": "instagram://media?id=1617652056059707500_3099591977",
+                }, {
+                    "id": 17,
+                    "title": "Унесённая ветром",
+                    "link": "instagram://media?id=1695920060500896724_3099591977",
+                }, {
+                    "id": 3,
+                    "title": "Изучаю язык",
+                    "link": "instagram://media?id=1652876739293781252_3099591977",
+                }, {
+                    "id": 4,
+                    "title": "Снежная зима",
+                    "link": "instagram://media?id=1667581049516700841_3099591977",
+                }, {
+                    "id": 5,
+                    "title": "Новый год",
+                    "link": "instagram://media?id=1686223017514173319_3099591977",
+                    "type": "video"
+                }, {
+                    "id": 6,
+                    "title": "Музейная площадь",
+                    "link": "instagram://media?id=1691589297177533374_3099591977",
+                }, {
+                    "id": 7,
+                    "title": "Мой велосипед, хоть и не надолго",
+                    "link": "instagram://media?id=1726162014274670856_3099591977",
+                }, {
+                    "id": 8,
+                    "title": "Амстердам летом",
+                    "link": "instagram://media?id=1834895783042632818_3099591977",
+                }, {
+                    "id": 9,
+                    "title": "Концерт Шакиры",
+                    "link": "instagram://media?id=1798464614554233203_3099591977",
+                    "type": "video"
+                }, {
+                    "id": 10,
+                    "title": "Офис",
+                    "link": "instagram://media?id=1855170486290179278_3099591977",
+                }, {
+                    "id": 11,
+                    "title": "Велосипеды",
+                    "link": "instagram://media?id=1869589328549245815_3099591977",
+                }, {
+                    "id": 12,
+                    "title": "Музеи",
+                    "link": "instagram://media?id=1904627591235845860_3099591977",
+                }, {
+                    "id": 14,
+                    "title": "Язык",
+                    "link": "instagram://media?id=1913743228373784500_3099591977",
+                }, {
+                    "id": 15,
+                    "title": "Кухня",
+                    "link": "instagram://media?id=1918801667881711895_3099591977",
+                }, {
+                    "id": 16,
+                    "title": "Прощание",
+                    "link": "instagram://media?id=1921697818469612145_3099591977",
+                }]
+            }, {
+                "id": "europe/netherlands/cities",
+                "title": "Города",
+                "posts": [{
+                    "id": 6,
+                    "title": "Haarlem",
+                    "link": "instagram://media?id=1742773643909134377_3099591977",
+                }, {
+                    "id": 9,
+                    "title": "Гаага",
+                    "link": "instagram://media?id=1801789710689708629_3099591977",
+                }, {
+                    "id": 3,
+                    "title": "Utrecht",
+                    "link": "instagram://media?id=1682160885891482943_3099591977",
+                }, {
+                    "id": 8,
+                    "title": "Utrecht летом",
+                    "link": "instagram://media?id=1793531068299514190_3099591977",
+                }, {
+                    "id": 5,
+                    "title": "Rotterdam",
+                    "link": "instagram://media?id=1702219056097963307_3099591977",
+                }, {
+                    "id": 10,
+                    "title": "Kinderdijk и летний Rotterdam",
+                    "link": "instagram://media?id=1809044604811358739_3099591977",
+                }, {
+                    "id": 1,
+                    "title": "Edam",
+                    "link": "instagram://media?id=1677100357544510903_3099591977",
+                }, {
+                    "id": 2,
+                    "title": "Volendam",
+                    "link": "instagram://media?id=1677114753326845902_3099591977",
+                }, {
+                    "id": 11,
+                    "title": "Marken",
+                    "link": "instagram://media?id=1813336949367061130_3099591977",
+                }, {
+                    "id": 12,
+                    "title": "Den Helder",
+                    "link": "instagram://media?id=1816593742243485476_3099591977",
+                }, {
+                    "id": 13,
+                    "title": "Lelistad",
+                    "link": "instagram://media?id=1819946193495313734_3099591977",
+                }, {
+                    "id": 14,
+                    "title": "Zaanse Schans",
+                    "link": "instagram://media?id=1822492011310068527_3099591977",
+                }, {
+                    "id": 15,
+                    "title": "Leiden",
+                    "link": "instagram://media?id=1837070469562342887_3099591977",
+                }, {
+                    "id": 17,
+                    "title": "Muiden",
+                    "link": "instagram://media?id=1852966453038713924_3099591977",
+                }, {
+                    "id": 18,
+                    "title": "Horn",
+                    "link": "instagram://media?id=1899127003955452451_3099591977",
+                }]
+            }, {
+                "id": "europe/netherlands/nature",
+                "title": "Природа",
+                "posts": [{
+                    "id": 1,
+                    "title": "Тюльпановые поля",
+                    "link": "instagram://media?id=1756072012693871800_3099591977",
+                }, {
+                    "id": 2,
+                    "title": "Северное море",
+                    "link": "instagram://media?id=1841343631930155059_3099591977",
+                }, {
+                    "id": 3,
+                    "title": "Природа и география страны",
+                    "link": "instagram://media?id=1908642127517364543_3099591977",
+                },
+                ]
+            }],
+        }, {
+            "id": "europe/italy",
+            "title": "Trip to Italy 🇮🇹",
+            "posts": [{
+                "id": 3,
+                "title": "Naples",
+                "link": "instagram://media?id=1760018678979369563_3099591977",
+            }, {
+                "id": 4,
+                "title": "Pompei",
+                "link": "instagram://media?id=1761500120162808173_3099591977",
+            }, {
+                "id": 5,
+                "title": "Rome",
+                "link": "instagram://media?id=1763986752178779345_3099591977",
+            }, {
+                "id": 6,
+                "title": "Vatican city",
+                "link": "instagram://media?id=1764787532104364978_3099591977",
+            }, {
+                "id": 7,
+                "title": "Florence",
+                "link": "instagram://media?id=1766995547687605027_3099591977",
+            }, {
+                "id": 8,
+                "title": "Bologna",
+                "link": "instagram://media?id=1769151124974891361_3099591977",
+            }, {
+                "id": 9,
+                "title": "Venice",
+                "link": "instagram://media?id=1770884367382347596_3099591977",
+            }, {
+                "id": 10,
+                "title": "Overview",
+                "link": "instagram://media?id=1772720055153270918_3099591977",
+            }]
+        }, {
+            "id": "europe/germany",
+            "title": "Germany 🇩🇪",
+            "posts": [{
+                "id": 1,
+                "title": "Cologne",
+                "link": "instagram://media?id=1827573313868584659_3099591977",
+            }, {
+                "id": 2,
+                "title": "Dusseldorf",
+                "link": "instagram://media?id=1830023710621180896_3099591977",
+            }, {
+                "id": 3,
+                "title": "Fussen",
+                "link": "instagram://media?id=1844144858740842812_3099591977",
+            }, {
+                "id": 4,
+                "title": "Munich",
+                "link": "instagram://media?id=1848018165407944173_3099591977",
+            }]
+        }, {
+            "id": "europe/belgium",
+            "title": "Belgium 🇧🇪",
+            "posts": [{
+                "id": 1,
+                "title": "Ghent",
+                "link": "instagram://media?id=1734205858000186852_3099591977",
+            }, {
+                "id": 2,
+                "title": "Brussels",
+                "link": "instagram://media?id=1735626673002418902_3099591977",
+            },]
+        }, {
+            "id": "europe/spain",
+            "title": "Spain 🇪🇸",
+            "posts": [{
+                "id": 1,
+                "title": "Barcelona",
+                "link": "instagram://media?id=1884692970429381032_3099591977",
+            }, {
+                "id": 2,
+                "title": "Valencia",
+                "link": "instagram://media?id=1891949960327071453_3099591977",
+            },]
+        }],
         "posts": [{
             "id": 1,
-            "title": "Бельгия - Гент",
-            "link": "instagram://media?id=1734205858000186852_3099591977",
-        }, {
-            "id": 2,
-            "title": "Бельгия - Брюссель",
-            "link": "instagram://media?id=1735626673002418902_3099591977",
-        }, {
-            "id": 3,
-            "title": "Италия - Неаполь",
-            "link": "instagram://media?id=1760018678979369563_3099591977",
-        }, {
-            "id": 4,
-            "title": "Италия - Помпеи",
-            "link": "instagram://media?id=1761500120162808173_3099591977",
-        }, {
-            "id": 5,
-            "title": "Италия - Рим",
-            "link": "instagram://media?id=1763986752178779345_3099591977",
-        }, {
-            "id": 6,
-            "title": "Ватикан",
-            "link": "instagram://media?id=1764787532104364978_3099591977",
-        }, {
-            "id": 7,
-            "title": "Италия - Флоренция",
-            "link": "instagram://media?id=1766995547687605027_3099591977",
-        }, {
-            "id": 8,
-            "title": "Италия - Болонья",
-            "link": "instagram://media?id=1769151124974891361_3099591977",
-        }, {
-            "id": 9,
-            "title": "Италия - Венеция",
-            "link": "instagram://media?id=1770884367382347596_3099591977",
-        }, {
-            "id": 10,
-            "title": "Просто Италия",
-            "link": "instagram://media?id=1772720055153270918_3099591977",
-        }, {
-            "id": 11,
-            "title": "Германия - Кёльн",
-            "link": "instagram://media?id=1827573313868584659_3099591977",
-        }, {
-            "id": 12,
-            "title": "Германия - Дюссельдорф",
-            "link": "instagram://media?id=1830023710621180896_3099591977",
-        }, {
-            "id": 13,
-            "title": "Германия - Фюссен",
-            "link": "instagram://media?id=1844144858740842812_3099591977",
-        }, {
-            "id": 14,
-            "title": "Германия - Мюнхен",
-            "link": "instagram://media?id=1848018165407944173_3099591977",
-        }, {
-            "id": 15,
-            "title": "Франция - Париж",
+            "title": "France - Paris 🇫🇷",
             "link": "instagram://media?id=1858015281425435721_3099591977",
         }, {
-            "id": 16,
-            "title": "Англия - Лондон",
+            "id": 2,
+            "title": "United Kingdom - London 🇬🇧",
             "link": "instagram://media?id=1873446757183657062_3099591977",
-        }, {
-            "id": 17,
-            "title": "Испания - Барселона",
-            "link": "instagram://media?id=1884692970429381032_3099591977",
-        }, {
-            "id": 18,
-            "title": "Испания - Валенсия",
-            "link": "instagram://media?id=1891949960327071453_3099591977",
-        },]
+        }]
     },
 ];
