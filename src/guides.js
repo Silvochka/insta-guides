@@ -356,47 +356,78 @@ export const guides = [
         "title": "US Mountain West states",
     },
     {
-        "id": "snorkeling",
-        "title": "Snorkeling 🤿",
-        "posts": [{
-            "id": 1,
-            "title": "On Maui, Hawaii",
-            "link": "instagram://media?id=2779699598118996787_3099591977",
-        }, {
-            "id": 2,
-            "title": "On Big Island, Hawaii",
-            "link": "instagram://media?id=3071710655396949142_3099591977",
-        }, {
-            "id": 3,
-            "title": "On Turks and Caicos",
-            "link": "instagram://media?id=3180499376467108527_3099591977",
+        "id": "activities",
+        "title": "Activities",
+        "guides":[{
+            "id": "activities/snorkeling",
+            "title": "Snorkeling 🤿",
+            "posts": [{
+                "id": 1,
+                "title": "On Maui, Hawaii",
+                "link": "instagram://media?id=2779699598118996787_3099591977",
+            }, {
+                "id": 2,
+                "title": "On Big Island, Hawaii",
+                "link": "instagram://media?id=3071710655396949142_3099591977",
+            }, {
+                "id": 3,
+                "title": "On Turks and Caicos",
+                "link": "instagram://media?id=3180499376467108527_3099591977",
+            },]
+        },
+        {
+            "id": "activities/skiing",
+            "title": "Skiing 🎿",
+            "posts": [{
+                "id": 1,
+                "title": "Baker/Stevens, WA 2022",
+                "link": "instagram://media?id=2821097287013096278_3099591977",
+            }, {
+                "id": 2,
+                "title": "Whistler, Canada 2021",
+                "link": "instagram://media?id=2800025999007829044_3099591977",
+            }, {
+                "id": 3,
+                "title": "Grouse Mountain, Canada 2020",
+                "link": "instagram://media?id=2267954199459534791_3099591977",
+            }, {
+                "id": 4,
+                "title": "Snoqualmie Pass, WA 2020",
+                "link": "instagram://media?id=2307824573764490572_3099591977",
+                "type": "video"
+            }, {
+                "id": 5,
+                "title": "Snoqualmie Pass, WA 2019",
+                "link": "instagram://media?id=2012242795724853417_3099591977",
+            }]
+        },
+        {
+            "id": "activities/concerts",
+            "title": "Концерты",
+            "posts": [{
+                "id": 1,
+                "title": "Звери, Сиэтл, 2017",
+                "link": "instagram://media?id=1484394154430805649_3099591977",
+                "type": "video",
+            }, {
+                "id": 2,
+                "title": "Мое последнее выступление в Ярославле",
+                "link": "instagram://media?id=1670540143017953136_3099591977",
+            }, {
+                "id": 3,
+                "title": "Шакира, Амстердам, 2018",
+                "link": "instagram://media?id=1798464614554233203_3099591977",
+                "type": "video",
+            }, {
+                "id": 4,
+                "title": "Звери, Сиэтл, 2019",
+                "link": "instagram://media?id=2055553004421305954_3099591977",
+            }, {
+                "id": 5,
+                "title": "Ногу Свело! Портланд, 2019",
+                "link": "instagram://media?id=2185522833186052285_3099591977",
+            }]
         },]
-    },
-    {
-        "id": "skiing",
-        "title": "Skiing 🎿",
-        "posts": [{
-            "id": 1,
-            "title": "Baker/Stevens, WA 2022",
-            "link": "instagram://media?id=2821097287013096278_3099591977",
-        }, {
-            "id": 2,
-            "title": "Whistler, Canada 2021",
-            "link": "instagram://media?id=2800025999007829044_3099591977",
-        }, {
-            "id": 3,
-            "title": "Grouse Mountain, Canada 2020",
-            "link": "instagram://media?id=2267954199459534791_3099591977",
-        }, {
-            "id": 4,
-            "title": "Snoqualmie Pass, WA 2020",
-            "link": "instagram://media?id=2307824573764490572_3099591977",
-            "type": "video"
-        }, {
-            "id": 5,
-            "title": "Snoqualmie Pass, WA 2019",
-            "link": "instagram://media?id=2012242795724853417_3099591977",
-        }]
     },
     {
         "id": 19,
@@ -495,33 +526,6 @@ export const guides = [
                 "link": "instagram://media?id=2536246646269229278_3099591977",
             },]
         },]
-    },
-    {
-        "id": "concerts",
-        "title": "Концерты",
-        "posts": [{
-            "id": 1,
-            "title": "Звери, Сиэтл, 2017",
-            "link": "instagram://media?id=1484394154430805649_3099591977",
-            "type": "video",
-        }, {
-            "id": 2,
-            "title": "Мое последнее выступление в Ярославле",
-            "link": "instagram://media?id=1670540143017953136_3099591977",
-        }, {
-            "id": 3,
-            "title": "Шакира, Амстердам, 2018",
-            "link": "instagram://media?id=1798464614554233203_3099591977",
-            "type": "video",
-        }, {
-            "id": 4,
-            "title": "Звери, Сиэтл, 2019",
-            "link": "instagram://media?id=2055553004421305954_3099591977",
-        }, {
-            "id": 5,
-            "title": "Ногу Свело! Портланд, 2019",
-            "link": "instagram://media?id=2185522833186052285_3099591977",
-        }]
     },
     {
         "id": "europe",
