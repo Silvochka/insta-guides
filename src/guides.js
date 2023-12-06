@@ -363,43 +363,92 @@ export const guides = [
     {
         "id": "california",
         "title": "California",
-        "posts": [{
-            "id": 1,
-            "title": "San Francisco / Silicon Valley (sep 2022)",
-            "link": "instagram://media?id=3013873600986352722_3099591977",
+        "guides":[{
+            "id": "california/san-francisco",
+            "title": "San Francisco",
+            "posts": [{
+                "id": 1,
+                "title": "Business trip, Sep 2022",
+                "link": "instagram://media?id=3013873600986352722_3099591977",
+            }, {
+                "id": 2,
+                "title": "Business trip, May 2022",
+                "link": "instagram://media?id=2917336615819339122_3099591977",
+            }, {
+                "id": 3,
+                "title": "Road trip from LA, May 2021",
+                "link": "instagram://media?id=2623225083320362226_3099591977",
+            }, {
+                "id": 4,
+                "title": "Road trip from Seattle, Apr 2019",
+                "link": "instagram://media?id=2040536333751353137_3099591977",
+            }, ]
         }, {
-            "id": 2,
-            "title": "Yosemite NP",
-            "link": "instagram://media?id=2925965332147268109_3099591977",
+            "id": "california/silicon-valley",
+            "title": "Silicon Valley",
+            "posts": [{
+                "id": 1,
+                "title": "Business trip, Sep 2022",
+                "link": "instagram://media?id=3013873600986352722_3099591977",
+            }, {
+                "id": 2,
+                "title": "Palo Alto, May 2022",
+                "link": "instagram://media?id=2906590474233692183_3099591977",
+            },  {
+                "id": 3,
+                "title": "Road trip from LA, May 2021",
+                "link": "instagram://media?id=2608025293288833728_3099591977",
+            },  {
+                "id": 4,
+                "title": "Road trip from Seattle, Apr 2019",
+                "link": "instagram://media?id=2043765773851505359_3099591977",
+            }, ]
         }, {
-            "id": 3,
-            "title": "San Francisco (May 2022)",
-            "link": "instagram://media?id=2917336615819339122_3099591977",
+            "id": "california/la",
+            "title": "LA and around",
+            "posts": [{
+                "id": 1,
+                "title": "Los Angeles",
+                "link": "instagram://media?id=2365032391978084286_3099591977",
+            }, {
+                "id": 2,
+                "title": "Pasadena",
+                "link": "instagram://media?id=2339865389462533073_3099591977",
+            }, {
+                "id": 3,
+                "title": "Beverly Hills",
+                "link": "instagram://media?id=2329746511751422665_3099591977",
+            }, {
+                "id": 4,
+                "title": "Hollywood",
+                "link": "instagram://media?id=2337625072982225178_3099591977",
+            }, {
+                "id": 5,
+                "title": "Malibu Beach",
+                "link": "instagram://media?id=2327539423394520682_3099591977",
+            },]
         }, {
-            "id": 4,
-            "title": "Palo Alto (May 2022)",
-            "link": "instagram://media?id=2906590474233692183_3099591977",
-        }, {
-            "id": 5,
-            "title": "San Francisco (May 2021)",
-            "link": "instagram://media?id=2623225083320362226_3099591977",
-        }, {
-            "id": 6,
-            "title": "Silicon Valley (May 2021)",
-            "link": "instagram://media?id=2608025293288833728_3099591977",
-        }, {
-            "id": 7,
-            "title": "Big Sur",
-            "link": "instagram://media?id=2601521006995943759_3099591977",
-        }, {
-            "id": 8,
-            "title": "Santa Barbara",
-            "link": "instagram://media?id=2596402249906651812_3099591977",
-        }, {
-            "id": 9,
-            "title": "Los Angeles",
-            "link": "instagram://media?id=2365032391978084286_3099591977",
-        }, {
+            "id": "california/ca-1-2021",
+            "title": "Road trip on CA-1",
+            "posts": [{
+                "id": 1,
+                "title": "Santa Barbara",
+                "link": "instagram://media?id=2596402249906651812_3099591977",
+            }, {
+                "id": 2,
+                "title": "Big Sur",
+                "link": "instagram://media?id=2601521006995943759_3099591977",
+            },  {
+                "id": 3,
+                "title": "Monterey Bay & Silicon Valley",
+                "link": "instagram://media?id=2608025293288833728_3099591977",
+            },  {
+                "id": 4,
+                "title": "San Francisco",
+                "link": "instagram://media?id=2623225083320362226_3099591977",
+            }, ]
+        }],
+        "posts": [ {
             "id": 10,
             "title": "San Diego",
             "link": "instagram://media?id=2354910580107943469_3099591977",
@@ -408,41 +457,21 @@ export const guides = [
             "title": "San Clemente",
             "link": "instagram://media?id=2348970588261215673_3099591977",
         }, {
-            "id": 12,
-            "title": "Pasadena",
-            "link": "instagram://media?id=2339865389462533073_3099591977",
-        }, {
-            "id": 13,
-            "title": "Hollywood",
-            "link": "instagram://media?id=2337625072982225178_3099591977",
-        }, {
-            "id": 14,
-            "title": "Beverly Hills",
-            "link": "instagram://media?id=2329746511751422665_3099591977",
-        }, {
-            "id": 15,
-            "title": "Malibu Beach",
-            "link": "instagram://media?id=2739926052249763535_3099591977",
-        }, {
             "id": 16,
             "title": "Tahoe Lake",
-            "link": "instagram://media?id=2327539423394520682_3099591977",
+            "link": "instagram://media?id=2048089169141695825_3099591977",
         }, {
             "id": 17,
             "title": "Napa Valley",
-            "link": "instagram://media?id=2048089169141695825_3099591977",
-        }, {
-            "id": 18,
-            "title": "Silicon Valley (Apr 2019)",
             "link": "instagram://media?id=2045939672899031259_3099591977",
-        }, {
-            "id": 19,
-            "title": "San Francisco (Apr 2019)",
-            "link": "instagram://media?id=2043765773851505359_3099591977",
         }, {
             "id": 20,
             "title": "Redwood NP",
-            "link": "instagram://media?id=2040536333751353137_3099591977",
+            "link": "instagram://media?id=2037640841853760959_3099591977",
+        }, {
+            "id": 2,
+            "title": "Yosemite NP",
+            "link": "instagram://media?id=2925965332147268109_3099591977",
         },]
     },
     {
