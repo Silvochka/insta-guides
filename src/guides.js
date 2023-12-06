@@ -474,10 +474,6 @@ export const guides = [
         },]
     },
     {
-        "id": 13,
-        "title": "Hikes",
-    },
-    {
         "id": 14,
         "title": "Природа Вашингтона",
     },
@@ -537,6 +533,67 @@ export const guides = [
                 "title": "Snoqualmie Pass, WA 2019",
                 "link": "instagram://media?id=2012242795724853417_3099591977",
             }]
+        },
+        {
+            "id": "activities/hiking",
+            "title": "Hiking 🥾",
+            "posts": [{
+                "id": 1,
+                "title": "Wahclella Falls / Latourel Falls, OR",
+                "link": "instagram://media?id=3005600041722137506_3099591977",
+            }, {
+                "id": 2,
+                "title": "Diablo Lake, WA",
+                "link": "instagram://media?id=2992764014522305507_3099591977",
+            }, {
+                "id": 3,
+                "title": "Poo Poo Point trail, WA",
+                "link": "instagram://media?id=2809493709395608313_3099591977",
+            }, {
+                "id": 4,
+                "title": "Valley of Fire, NV",
+                "link": "instagram://media?id=2728324311997555221_3099591977",
+            }, {
+                "id": 5,
+                "title": "Skyline trail, WA",
+                "link": "instagram://media?id=2724695032646644144_3099591977",
+            }, {
+                "id": 6,
+                "title": "Mt St Helens, WA",
+                "link": "instagram://media?id=2423937930459710925_3099591977",
+            }, {
+                "id": 7,
+                "title": "Hog Rain Forest, WA",
+                "link": "instagram://media?id=2403637266206836461_3099591977",
+            }, {
+                "id": 8,
+                "title": "Sol Duc Falls, WA",
+                "link": "instagram://media?id=2398551872977006738_3099591977",
+            }, {
+                "id": 9,
+                "title": "Little Si, WA",
+                "link": "instagram://media?id=2081638418500344392_3099591977",
+            }, {
+                "id": 10,
+                "title": "Tipsoo Lake, WA",
+                "link": "instagram://media?id=2073709974504545568_3099591977",
+            }, {
+                "id": 11,
+                "title": "Twin Falls, WA",
+                "link": "instagram://media?id=2060828982747995741_3099591977",
+            }, {
+                "id": 12,
+                "title": "Smith Rock, OR",
+                "link": "instagram://media?id=2053575318513744883_3099591977",
+            }, {
+                "id": 13,
+                "title": "Redwood, CA",
+                "link": "instagram://media?id=2037640841853760959_3099591977",
+            }, {
+                "id": 14,
+                "title": "Rattlesnake Ridge, WA",
+                "link": "instagram://media?id=1972302517723602784_3099591977",
+            },]
         }, {
             "id": "activities/concerts",
             "title": "Концерты",
