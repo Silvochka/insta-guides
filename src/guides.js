@@ -273,8 +273,7 @@ export const guides = [
             "title": "Yosemite NP, CA",
             "link": "instagram://media?id=2925965332147268109_3099591977",
         },]
-    },
-    {
+    }, {
         "id": "hawaii",
         "title": "Hawaii",
         "guides": [{
@@ -358,12 +357,12 @@ export const guides = [
             "id": 7,
             "title": "Yaquina Head",
             "link": "instagram://media?id=2031459192254235961_3099591977",
-        }, ]
+        },]
     },
     {
         "id": "california",
         "title": "California",
-        "guides":[{
+        "guides": [{
             "id": "california/san-francisco",
             "title": "San Francisco",
             "posts": [{
@@ -382,7 +381,7 @@ export const guides = [
                 "id": 4,
                 "title": "Road trip from Seattle, Apr 2019",
                 "link": "instagram://media?id=2040536333751353137_3099591977",
-            }, ]
+            },]
         }, {
             "id": "california/silicon-valley",
             "title": "Silicon Valley",
@@ -394,15 +393,15 @@ export const guides = [
                 "id": 2,
                 "title": "Palo Alto, May 2022",
                 "link": "instagram://media?id=2906590474233692183_3099591977",
-            },  {
+            }, {
                 "id": 3,
                 "title": "Road trip from LA, May 2021",
                 "link": "instagram://media?id=2608025293288833728_3099591977",
-            },  {
+            }, {
                 "id": 4,
                 "title": "Road trip from Seattle, Apr 2019",
                 "link": "instagram://media?id=2043765773851505359_3099591977",
-            }, ]
+            },]
         }, {
             "id": "california/la",
             "title": "LA and around",
@@ -438,17 +437,17 @@ export const guides = [
                 "id": 2,
                 "title": "Big Sur",
                 "link": "instagram://media?id=2601521006995943759_3099591977",
-            },  {
+            }, {
                 "id": 3,
                 "title": "Monterey Bay & Silicon Valley",
                 "link": "instagram://media?id=2608025293288833728_3099591977",
-            },  {
+            }, {
                 "id": 4,
                 "title": "San Francisco",
                 "link": "instagram://media?id=2623225083320362226_3099591977",
-            }, ]
+            },]
         }],
-        "posts": [ {
+        "posts": [{
             "id": 10,
             "title": "San Diego",
             "link": "instagram://media?id=2354910580107943469_3099591977",
@@ -621,8 +620,7 @@ export const guides = [
                 "title": "День 10: Каньон Орегона",
                 "link": "instagram://media?id=2053575318513744883_3099591977",
             },]
-        },
-        {
+        }, {
             "id": "road-trips/tx-2020",
             "title": "10 дней в Техасе",
             "posts": [{
@@ -662,7 +660,27 @@ export const guides = [
                 "title": "Обзорная по Техасу",
                 "link": "instagram://media?id=2536246646269229278_3099591977",
             },]
-        },]
+        }, {
+            "id": "california/ca-1-2021",
+            "title": "Вдоль Тихого океана Калифорнии",
+            "posts": [{
+                "id": 1,
+                "title": "Santa Barbara",
+                "link": "instagram://media?id=2596402249906651812_3099591977",
+            }, {
+                "id": 2,
+                "title": "Big Sur",
+                "link": "instagram://media?id=2601521006995943759_3099591977",
+            }, {
+                "id": 3,
+                "title": "Monterey Bay & Silicon Valley",
+                "link": "instagram://media?id=2608025293288833728_3099591977",
+            }, {
+                "id": 4,
+                "title": "San Francisco",
+                "link": "instagram://media?id=2623225083320362226_3099591977",
+            },]
+        }]
     },
     {
         "id": "europe",
