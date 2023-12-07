@@ -68,11 +68,11 @@ export const guides = [
                     "id": 2,
                     "title": "Rose Valley",
                     "link": "instagram://media?id=3250024080633870558_3099591977",
-                },  {
+                }, {
                     "id": 3,
                     "title": "Derinkuyu - Underground city",
                     "link": "instagram://media?id=3251456942625184636_3099591977",
-                },  {
+                }, {
                     "id": 4,
                     "title": "Overview",
                     "link": "instagram://media?id=3251470116095183907_3099591977",
@@ -227,7 +227,7 @@ export const guides = [
                 "id": 6,
                 "title": "North Cascades NP - Diablo lake",
                 "link": "instagram://media?id=2992764014522305507_3099591977",
-            }, ],
+            },],
         }, {
             "id": "us-national-parks/utah",
             "title": "Utah",
@@ -500,17 +500,17 @@ export const guides = [
         "guides": [{
             "id": "new-england/ma",
             "title": "Massachusetts",
-            "posts": [ {
+            "posts": [{
                 "id": 1,
-                "title": "Boston, MA",
+                "title": "Boston",
                 "link": "instagram://media?id=2974583371889190392_3099591977",
-            },  {
+            }, {
                 "id": 2,
-                "title": "Cape Cod, MA",
+                "title": "Cape Cod",
                 "link": "instagram://media?id=2957779356334416733_3099591977",
             }, {
                 "id": 3,
-                "title": "Cambridge, MA",
+                "title": "Cambridge",
                 "link": "instagram://media?id=2979832111658715111_3099591977",
             },]
         }],
@@ -541,8 +541,58 @@ export const guides = [
         "title": "US Midwest states",
     },
     {
-        "id": 17,
-        "title": "US Mountain West states",
+        "id": "west-mountain",
+        "title": "West Mountain",
+        "guides": [{
+            "id": "west-mountain/utah",
+            "title": "Utah",
+            "posts": [{
+                "id": 1,
+                "title": "Salt Lake City",
+                "link": "instagram://media?id=2901517446600558703_3099591977",
+            }, {
+                "id": 2,
+                "title": "Canyonlands NP - Islands in the Sky",
+                "link": "instagram://media?id=2895736619572909554_3099591977",
+            }, {
+                "id": 3,
+                "title": "Arches NP",
+                "link": "instagram://media?id=2886620325203436884_3099591977",
+            }, {
+                "id": 4,
+                "title": "Capitol Reef NP",
+                "link": "instagram://media?id=2865250579225648573_3099591977",
+            }, {
+                "id": 5,
+                "title": "Bryce Canyon NP",
+                "link": "instagram://media?id=2839115093402027155_3099591977",
+            }, {
+                "id": 6,
+                "title": "Zion NP",
+                "link": "instagram://media?id=2734900564410078951_3099591977",
+            },]
+        }, {
+            "id": "west-mountain/nevada",
+            "title": "Nevada",
+            "posts": [{
+                "id": 1,
+                "title": "Las Vegas",
+                "link": "instagram://media?id=2744275615358076002_3099591977",
+            }, {
+                "id": 2,
+                "title": "Valley of Fire",
+                "link": "instagram://media?id=2728324311997555221_3099591977",
+            }, {
+                "id": 3,
+                "title": "One day in Nevada, 2019",
+                "link": "instagram://media?id=2049493516073423295_3099591977",
+            },]
+        }],
+        "posts": [{
+            "id": 1,
+            "title": "Grand Canyon, AZ",
+            "link": "instagram://media?id=2739926052249763535_3099591977",
+        }]
     },
     {
         "id": "activities",
