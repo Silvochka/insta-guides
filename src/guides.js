@@ -495,8 +495,46 @@ export const guides = [
         "title": "Природа Вашингтона",
     },
     {
-        "id": 15,
-        "title": "New England states",
+        "id": "new-england",
+        "title": "New England",
+        "guides": [{
+            "id": "new-england/ma",
+            "title": "Massachusetts",
+            "posts": [ {
+                "id": 1,
+                "title": "Boston, MA",
+                "link": "instagram://media?id=2974583371889190392_3099591977",
+            },  {
+                "id": 2,
+                "title": "Cape Cod, MA",
+                "link": "instagram://media?id=2957779356334416733_3099591977",
+            }, {
+                "id": 3,
+                "title": "Cambridge, MA",
+                "link": "instagram://media?id=2979832111658715111_3099591977",
+            },]
+        }],
+        "posts": [{
+            "id": 1,
+            "title": "Maine",
+            "link": "instagram://media?id=2943571148698025708_3099591977",
+        }, {
+            "id": 2,
+            "title": "New Hampshire",
+            "link": "instagram://media?id=2946384504453837391_3099591977",
+        }, {
+            "id": 3,
+            "title": "Vermont",
+            "link": "instagram://media?id=2948393139410061788_3099591977",
+        }, {
+            "id": 4,
+            "title": "Connecticut",
+            "link": "instagram://media?id=2951401691286920586_3099591977",
+        }, {
+            "id": 5,
+            "title": "Rhode Island",
+            "link": "instagram://media?id=2953496954753541534_3099591977",
+        },]
     },
     {
         "id": 16,
