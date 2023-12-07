@@ -823,7 +823,7 @@ export const guides = [
                 "link": "instagram://media?id=2536246646269229278_3099591977",
             },]
         }, {
-            "id": "california/ca-1-2021",
+            "id": "road-trips/ca-1-2021",
             "title": "Вдоль Тихого океана Калифорнии",
             "posts": [{
                 "id": 1,
