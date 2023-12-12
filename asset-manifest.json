@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/insta-guides/static/css/main.aae20589.css",
-    "main.js": "/insta-guides/static/js/main.647ec006.js",
+    "main.js": "/insta-guides/static/js/main.6f2495e3.js",
     "static/js/787.ed332ee9.chunk.js": "/insta-guides/static/js/787.ed332ee9.chunk.js",
     "static/media/post_1.jpeg": "/insta-guides/static/media/post_1.c327da82883cb650ad91.jpeg",
     "static/media/cover.jpeg": "/insta-guides/static/media/cover.09369f569c97866829f4.jpeg",
@@ -13,7 +13,7 @@
     "static/media/post_8.jpeg": "/insta-guides/static/media/post_8.31ad312af588e159deb1.jpeg",
     "static/media/post_9.jpeg": "/insta-guides/static/media/post_9.f00f1ed45e04ac3351f6.jpeg",
     "static/media/post_10.jpeg": "/insta-guides/static/media/post_10.457eccda8b0df46c4757.jpeg",
-    "static/media/post_11.jpeg": "/insta-guides/static/media/post_11.3db9c8ad9515727c95a2.jpeg",
+    "static/media/post_11.jpeg": "/insta-guides/static/media/post_11.f9c78b3c65009def6f27.jpeg",
     "static/media/post_20.jpeg": "/insta-guides/static/media/post_20.83dca50747253c503991.jpeg",
     "static/media/post_7.jpeg": "/insta-guides/static/media/post_7.e2bf8f8c5cd46f7ef842.jpeg",
     "static/media/post_13.jpeg": "/insta-guides/static/media/post_13.46ab379b01e531a53ba5.jpeg",
@@ -29,16 +29,15 @@
     "static/media/post_26.jpeg": "/insta-guides/static/media/post_26.ad6d21ba98e64301a052.jpeg",
     "static/media/post_22.jpeg": "/insta-guides/static/media/post_22.f7e0e998bdfe99215d78.jpeg",
     "static/media/post_24.jpeg": "/insta-guides/static/media/post_24.bfd774725bb5b5fe4698.jpeg",
-    "static/media/guide-20.jpeg": "/insta-guides/static/media/guide-20.100d2b1efab093360731.jpeg",
     "static/media/post_0.jpeg": "/insta-guides/static/media/post_0.fd3562181a02b3f73c32.jpeg",
     "static/media/post_23.jpeg": "/insta-guides/static/media/post_23.2fd14cdd618eb8e2320c.jpeg",
     "index.html": "/insta-guides/index.html",
     "main.aae20589.css.map": "/insta-guides/static/css/main.aae20589.css.map",
-    "main.647ec006.js.map": "/insta-guides/static/js/main.647ec006.js.map",
+    "main.6f2495e3.js.map": "/insta-guides/static/js/main.6f2495e3.js.map",
     "787.ed332ee9.chunk.js.map": "/insta-guides/static/js/787.ed332ee9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aae20589.css",
-    "static/js/main.647ec006.js"
+    "static/js/main.6f2495e3.js"
   ]
 }
