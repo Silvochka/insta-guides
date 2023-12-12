@@ -644,8 +644,13 @@ export const guides = [
         },]
     },
     {
-        "id": 16,
-        "title": "US Midwest states",
+        "id": "chicago",
+        "title": "Chicago - US Midwest states",
+        "posts": [{
+            "id": 1,
+            "title": "Chicago, Illinois (2022)",
+            "link": "instagram://media?id=2901517446600558703_3099591977",
+        },]
     },
     {
         "id": "west-mountain",
