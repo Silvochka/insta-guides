@@ -842,11 +842,56 @@ export const guides = [
     {
         "id": "wa-cities",
         "title": "Города Вашингтона",
-        "posts": [{
-            "id": 1,
-            "title": "Tacoma 2022",
-            "link": "instagram://media?id=2804430041167438225_3099591977",
+        "guides": [{
+            "id": "wa-cities/seattle",
+            "title": "Seattle",
+            "posts": [{
+                "id": 1,
+                "title": "Overview, 2022",
+                "link": "instagram://media?id=2811298769677937498_3099591977",
+            }, {
+                "id": 2,
+                "title": "New Year 2019",
+                "link": "instagram://media?id=1947430383511684175_3099591977",
+            }, {
+                "id": 3,
+                "title": "Columbia Tower in Seattle",
+                "link": "instagram://media?id=1519439879237436542_3099591977",
+            }, {
+                "id": 4,
+                "title": "Space needle",
+                "link": "instagram://media?id=1515019964715752894_3099591977",
+            }, ]
         }, {
+            "id": "wa-cities/tacoma",
+            "title": "Tacoma",
+            "posts": [{
+                "id": 1,
+                "title": "In 2022",
+                "link": "instagram://media?id=2804430041167438225_3099591977",
+            }, {
+                "id": 2,
+                "title": "In 2020",
+                "link": "instagram://media?id=2304337999080771629_3099591977",
+            },]
+        }, {
+            "id": "wa-cities/port-angeles",
+            "title": "Port Angeles",
+            "posts": [ {
+                "id": 1,
+                "title": "Winter 2020",
+                "link": "instagram://media?id=2257884882869176609_3099591977",
+            },{
+                "id": 2,
+                "title": "Summer 2019",
+                "link": "instagram://media?id=2076328372795329069_3099591977",
+            }, {
+                "id": 3,
+                "title": "Feb 2019",
+                "link": "instagram://media?id=2008480717101035862_3099591977",
+            },]
+        }],
+        "posts": [{
             "id": 2,
             "title": "Fairhaven",
             "link": "instagram://media?id=2421301086978900413_3099591977",
@@ -855,17 +900,9 @@ export const guides = [
             "title": "Olympia",
             "link": "instagram://media?id=2418121453383029217_3099591977",
         }, {
-            "id": 4,
-            "title": "Tacoma 2020",
-            "link": "instagram://media?id=2304337999080771629_3099591977",
-        }, {
             "id": 5,
             "title": "Aberdeen",
             "link": "instagram://media?id=2279533862128620186_3099591977",
-        }, {
-            "id": 6,
-            "title": "Port Angeles (зима 2020)",
-            "link": "instagram://media?id=2257884882869176609_3099591977",
         }, {
             "id": 7,
             "title": "Lynden",
@@ -883,14 +920,6 @@ export const guides = [
             "title": "Anacortes",
             "link": "instagram://media?id=2095513669751787084_3099591977",
         }, {
-            "id": 11,
-            "title": "Port Angeles (лето 2019)",
-            "link": "instagram://media?id=2076328372795329069_3099591977",
-        }, {
-            "id": 12,
-            "title": "Port Angeles (март 2019)",
-            "link": "instagram://media?id=2008480717101035862_3099591977",
-        }, {
             "id": 13,
             "title": "Leavenworth",
             "link": "instagram://media?id=2004105618683955798_3099591977",
@@ -900,17 +929,13 @@ export const guides = [
             "link": "instagram://media?id=1554874688923063989_3099591977",
         }, {
             "id": 15,
-            "title": "Новый год 2019",
-            "link": "instagram://media?id=1947430383511684175_3099591977",
-        }, {
-            "id": 16,
-            "title": "Columbia Tower in Seattle",
-            "link": "instagram://media?id=1519439879237436542_3099591977",
-        }, {
-            "id": 17,
-            "title": "Seattle - Space needle",
-            "link": "instagram://media?id=1515019964715752894_3099591977",
-        },]
+            "title": "Silverdale",
+            "link": "instagram://media?id=2065898167618396915_3099591977",
+        }, ]
+    }, {
+        "id": "wa",
+        "title": "Washington",
+        "posts": [{}],
     },
     {
         "id": "wa-olympic-peninsula",
