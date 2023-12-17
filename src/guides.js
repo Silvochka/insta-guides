@@ -1008,7 +1008,7 @@ export const guides = [
         "title": "Road trips",
         "guides": [{
             "id": "road-trips/wa-or-ca-nv-2019",
-            "title": "10 дней в WA/OR/CA/NV",
+            "title": "10 days in WA/OR/CA/NV",
             "posts": [{
                 "id": 1,
                 "title": "День 1: Орегон",
@@ -1052,7 +1052,7 @@ export const guides = [
             },]
         }, {
             "id": "road-trips/tx-2020",
-            "title": "10 дней в Техасе",
+            "title": "10 days in Texas",
             "posts": [{
                 "id": 1,
                 "title": "Big Bend National Park - День 1",
@@ -1169,6 +1169,18 @@ export const guides = [
                 "id": 3,
                 "title": "Vermont",
                 "link": "instagram://media?id=2948393139410061788_3099591977",
+            },]
+        }, {
+            "id": "road-trips/wa-id-or-2022",
+            "title": "3 days in WA/ID/OR",
+            "posts": [{
+                "id": 1,
+                "title": "East Washington",
+                "link": "instagram://media?id=3004828985099379478_3099591977",
+            }, {
+                "id": 2,
+                "title": "North Oregon",
+                "link": "instagram://media?id=3005600041722137506_3099591977",
             },]
         },]
     },
