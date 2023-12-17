@@ -80,6 +80,11 @@ export const guides = [
                 "title": "Overview",
                 "link": "instagram://media?id=3251470116095183907_3099591977",
             }]
+        }],
+        "posts": [{
+            "id": 1,
+            "title": "Pamukkale",
+            "link": "instagram://media?id=3257405463288465634_3099591977",
         }]
     },
     {
