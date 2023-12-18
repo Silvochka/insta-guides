@@ -2,6 +2,7 @@ export const guides = [
     {
         "id": "about-me",
         "title": "Обо мне",
+        "order": 0,
         "posts": [
             {
                 "id": 0,
@@ -90,6 +91,7 @@ export const guides = [
     {
         "id": "canada",
         "title": "Canada 🇨🇦",
+        "order": 2,
         "posts": [{
             "id": 1,
             "title": "Канадский хоккей",
@@ -123,6 +125,7 @@ export const guides = [
     {
         "id": "mexico",
         "title": "Mexico 🇲🇽",
+        "order": 3,
         "posts": [{
             "id": 1,
             "title": "Cabo San Lucas",
@@ -140,6 +143,7 @@ export const guides = [
     {
         "id": "caribbean",
         "title": "Caribbean 🏖",
+        "order": 4,
         "posts": [{
             "id": 1,
             "title": "Turks and Caicos 🇹🇨",
@@ -207,6 +211,7 @@ export const guides = [
     {
         "id": "usa",
         "title": "United States 🇺🇸",
+        "order": 1,
         "guides": [
             {
                 "id": "usa/pacific",
