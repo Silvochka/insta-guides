@@ -742,6 +742,52 @@ export const guides = [
                 }]
             },
             {
+                "id": "usa/south",
+                "title": "South",
+                "guides": [{
+                    "id": "usa/south/texas",
+                    "title": "Texas",
+                    "posts": [{
+                        "id": 1,
+                        "title": "Big Bend National Park - День 1",
+                        "link": "instagram://media?id=2500056244720871063_3099591977",
+                    }, {
+                        "id": 2,
+                        "title": "Big Bend National Park - День 2",
+                        "link": "instagram://media?id=2502274994358509526_3099591977",
+                    }, {
+                        "id": 3,
+                        "title": "Сан Антонио",
+                        "link": "instagram://media?id=2505136444487964540_3099591977",
+                    }, {
+                        "id": 4,
+                        "title": "Гальвестон",
+                        "link": "instagram://media?id=2507328088419219527_3099591977",
+                    }, {
+                        "id": 5,
+                        "title": "Хьюстон",
+                        "link": "instagram://media?id=2512379512358308371_3099591977",
+                    }, {
+                        "id": 6,
+                        "title": "Остин",
+                        "link": "instagram://media?id=2517450164354207887_3099591977",
+                    }, {
+                        "id": 7,
+                        "title": "Даллас",
+                        "link": "instagram://media?id=2522525298618509713_3099591977",
+                    }, {
+                        "id": 8,
+                        "title": "Fort Worth",
+                        "link": "instagram://media?id=2529760936195342111_3099591977",
+                    }, {
+                        "id": 9,
+                        "title": "Обзорная по Техасу",
+                        "link": "instagram://media?id=2536246646269229278_3099591977",
+                    },]
+
+                }]
+            },
+            {
                 "id": "usa/new-england",
                 "title": "New England",
                 "guides": [{
@@ -1065,8 +1111,28 @@ export const guides = [
                         "title": "North Oregon",
                         "link": "instagram://media?id=3005600041722137506_3099591977",
                     },]
-                },]
-            },]
+                }, {
+                    "id": "usa/road-trips/dc-2021",
+                    "title": "DC and nearby",
+                    "posts": [{
+                        "id": 1,
+                        "title": "Washington DC, 07/2021",
+                        "link": "instagram://media?id=2634088917471375624_3099591977",
+                    },{
+                        "id": 2,
+                        "title": "Alexandria, VA",
+                        "link": "instagram://media?id=2678167454627525423_3099591977",
+                    }, {
+                        "id": 3,
+                        "title": "DelMarVa peninsula",
+                        "link": "instagram://media?id=2684801756796089561_3099591977",
+                    },{
+                        "id": 4,
+                        "title": "Virginia state",
+                        "link": "instagram://media?id=2696045829923259248_3099591977",
+                    },  ]
+                }]
+            }, ]
     },
     {
         "id": "activities",
