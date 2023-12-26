@@ -92,6 +92,39 @@ export const guides = [
         "id": "canada",
         "title": "Canada 🇨🇦",
         "order": 2,
+        "guides": [{
+            "id": "canada/vancouver",
+            "title": "Vancouver",
+            "posts": [{
+                "id": 1,
+                "title": "Horseshoe Bay",
+                "link": "instagram://media?id=2218096842146469163_3099591977",
+            }, {
+                "id": 2,
+                "title": "Северный Ванкувер",
+                "link": "instagram://media?id=2202845973553600459_3099591977",
+            }, {
+                "id": 3,
+                "title": "Ванкувер",
+                "link": "instagram://media?id=2197813379598126616_3099591977",
+            },]
+        }, {
+            "id": "canada/victoria",
+            "title": "Victoria",
+            "posts": [{
+                "id": 1,
+                "title": "Day 1 - downtown (May 2023)",
+                "link": "instagram://media?id=3261024570571326935_3099591977",
+            }, {
+                "id": 2,
+                "title": "Day 1 - boardwalk (May 2023)",
+                "link": "instagram://media?id=3262378396363960344_3099591977",
+            }, {
+                "id": 3,
+                "title": "Day 2 (May 2023)",
+                "link": "instagram://media?id=3263743249218275283_3099591977",
+            }]
+        }],
         "posts": [{
             "id": 1,
             "title": "Канадский хоккей",
@@ -108,18 +141,6 @@ export const guides = [
             "id": 4,
             "title": "Grouse mountain",
             "link": "instagram://media?id=2267954199459534791_3099591977",
-        }, {
-            "id": 5,
-            "title": "Horseshoe Bay",
-            "link": "instagram://media?id=2218096842146469163_3099591977",
-        }, {
-            "id": 6,
-            "title": "Северный Ванкувер",
-            "link": "instagram://media?id=2202845973553600459_3099591977",
-        }, {
-            "id": 7,
-            "title": "Ванкувер",
-            "link": "instagram://media?id=2197813379598126616_3099591977",
         },]
     },
     {
@@ -751,11 +772,11 @@ export const guides = [
                         "id": 9,
                         "title": "Обзорная по Техасу",
                         "link": "instagram://media?id=2536246646269229278_3099591977",
-                    }, ]
+                    },]
                 }, {
                     "id": "usa/south/florida",
                     "title": "Florida",
-                    "posts": [ {
+                    "posts": [{
                         "id": 1,
                         "title": "Cape Canaveral",
                         "link": "instagram://media?id=2176071718635082293_3099591977",
@@ -767,7 +788,7 @@ export const guides = [
                         "id": 3,
                         "title": "Grace Hopper, Orlando",
                         "link": "instagram://media?id=2170272551627383306_3099591977",
-                    }, ]
+                    },]
                 }, {
                     "id": "usa/south/dc",
                     "title": "Washington DC",
@@ -775,7 +796,7 @@ export const guides = [
                         "id": 1,
                         "title": "In april, 2023",
                         "link": "instagram://media?id=3190581903092915559_3099591977",
-                    },  {
+                    }, {
                         "id": 2,
                         "title": "In july, 2021",
                         "link": "instagram://media?id=2634088917471375624_3099591977",
@@ -795,7 +816,7 @@ export const guides = [
                         "id": 3,
                         "title": "Alexandria, VA",
                         "link": "instagram://media?id=2678167454627525423_3099591977",
-                    }, ]
+                    },]
                 }]
             },
             {
@@ -1129,7 +1150,7 @@ export const guides = [
                         "id": 1,
                         "title": "Washington DC, 07/2021",
                         "link": "instagram://media?id=2634088917471375624_3099591977",
-                    },{
+                    }, {
                         "id": 2,
                         "title": "Alexandria, VA",
                         "link": "instagram://media?id=2678167454627525423_3099591977",
@@ -1137,13 +1158,13 @@ export const guides = [
                         "id": 3,
                         "title": "DelMarVa peninsula",
                         "link": "instagram://media?id=2684801756796089561_3099591977",
-                    },{
+                    }, {
                         "id": 4,
                         "title": "Virginia state",
                         "link": "instagram://media?id=2696045829923259248_3099591977",
-                    },  ]
+                    },]
                 }]
-            }, ]
+            },]
     },
     {
         "id": "activities",
