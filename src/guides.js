@@ -9,6 +9,10 @@ export const guides = [
                 "title": "❤️",
                 "link": "instagram://media?id=1670540143017953136_3099591977",
             }, {
+                "id": 6,
+                "title": "Mac & Kimi",
+                "link": "instagram://media?id=3265203967973386537_3099591977",
+            }, {
                 "id": 1,
                 "title": "2022 - итоги года",
                 "link": "instagram://media?id=3005787029153168710_3099591977",
