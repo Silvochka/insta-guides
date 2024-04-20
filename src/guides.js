@@ -13,6 +13,14 @@ export const guides = [
                 "title": "Mac & Kimi",
                 "link": "instagram://media?id=3265203967973386537_3099591977",
             }, {
+                "id": 7,
+                "title": "Infiniti Dance 2023",
+                "link": "instagram://media?id=3267380613467743530_3099591977",
+            }, {
+                "id": 8,
+                "title": "2023 - итоги года",
+                "link": "instagram://media?id=3270240521787663779_3099591977",
+            }, {
                 "id": 1,
                 "title": "2022 - итоги года",
                 "link": "instagram://media?id=3005787029153168710_3099591977",
@@ -109,8 +117,16 @@ export const guides = [
                 "link": "instagram://media?id=2202845973553600459_3099591977",
             }, {
                 "id": 3,
-                "title": "Ванкувер",
+                "title": "Первый раз в Ванкувере, зима 2019",
                 "link": "instagram://media?id=2197813379598126616_3099591977",
+            }, {
+                "id": 4,
+                "title": "Ванкувер летом 2023",
+                "link": "instagram://media?id=3284921576012157301_3099591977",
+            }, {
+                "id": 5,
+                "title": "Maneskin in Vancouver",
+                "link": "instagram://media?id=3329868246311134491_3099591977",
             },]
         }, {
             "id": "canada/victoria",
@@ -379,12 +395,16 @@ export const guides = [
                                         "link": "instagram://media?id=2724695032646644144_3099591977",
                                     }, {
                                         "id": 2,
-                                        "title": "Crystal Mountain",
+                                        "title": "Crystal Mountain 2019",
                                         "link": "instagram://media?id=2141979526128062880_3099591977",
                                     }, {
                                         "id": 3,
                                         "title": "Tipsoo lake",
                                         "link": "instagram://media?id=2073709974504545568_3099591977",
+                                    }, {
+                                        "id": 4,
+                                        "title": "Crystal Mountain 2023",
+                                        "link": "instagram://media?id=3307257852615012351_3099591977",
                                     },]
                                 }, {
                                     "id": "usa/pacific/wa/nature/islands",
@@ -459,6 +479,14 @@ export const guides = [
                                     "id": 21,
                                     "title": "Skagit Valley",
                                     "link": "instagram://media?id=2028920427338065193_3099591977",
+                                }, {
+                                    "id": 22,
+                                    "title": "Heybrook lookout",
+                                    "link": "instagram://media?id=3273195903858385447_3099591977",
+                                }, {
+                                    "id": 23,
+                                    "title": "Camping (2023)",
+                                    "link": "instagram://media?id=3279046214220027972_3099591977",
                                 },]
                             },
                         ]
@@ -741,6 +769,10 @@ export const guides = [
                     "id": "usa/south/texas",
                     "title": "Texas",
                     "posts": [{
+                        "id": 10,
+                        "title": "Остин осенью 2023",
+                        "link": "instagram://media?id=3317408272933644505_3099591977",
+                    }, {
                         "id": 1,
                         "title": "Big Bend National Park - День 1",
                         "link": "instagram://media?id=2500056244720871063_3099591977",
@@ -1173,6 +1205,13 @@ export const guides = [
     {
         "id": "activities",
         "title": "Activities",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Camping",
+                "link": "instagram://media?id=3279046214220027972_3099591977",
+            },
+        ],
         "guides": [{
             "id": "activities/snorkeling",
             "title": "Snorkeling 🤿",
@@ -1274,6 +1313,14 @@ export const guides = [
                 "id": 14,
                 "title": "Rattlesnake Ridge, WA",
                 "link": "instagram://media?id=1972302517723602784_3099591977",
+            }, {
+                "id": 15,
+                "title": "Heybrook lookout",
+                "link": "instagram://media?id=3273195903858385447_3099591977",
+            }, {
+                "id": 16,
+                "title": "Crystal Mountain",
+                "link": "instagram://media?id=3307257852615012351_3099591977",
             },]
         }, {
             "id": "activities/concerts",
@@ -1300,7 +1347,11 @@ export const guides = [
                 "id": 5,
                 "title": "Ногу Свело! Портланд, 2019",
                 "link": "instagram://media?id=2185522833186052285_3099591977",
-            }]
+            }, {
+                "id": 6,
+                "title": "Maneskin in Vancouver, 2023",
+                "link": "instagram://media?id=3329868246311134491_3099591977",
+            },]
         },]
     },
     {
