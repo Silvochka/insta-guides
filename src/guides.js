@@ -185,20 +185,33 @@ export const guides = [
         "id": "caribbean",
         "title": "Caribbean 🏖",
         "order": 4,
-        "posts": [{
-            "id": 1,
-            "title": "Turks and Caicos 🇹🇨",
-            "link": "instagram://media?id=3176718604343775996_3099591977",
-        }, {
-            "id": 2,
-            "title": "Snorkeling, diving 🤿",
-            "link": "instagram://media?id=3180499376467108527_3099591977",
-        }, {
-            "id": 3,
-            "title": "Turks and Caicos overview 🇹🇨",
-            "link": "instagram://media?id=3178225944019632347_3099591977",
-            "type": "video"
-        }]
+        "guides": [{
+            "id": "caribbean/tci",
+            "title": "Turks & Caicos 🇹🇨",
+            "posts": [{
+                "id": 1,
+                "title": "Turks and Caicos 🇹🇨",
+                "link": "instagram://media?id=3176718604343775996_3099591977",
+            }, {
+                "id": 2,
+                "title": "Snorkeling, diving 🤿",
+                "link": "instagram://media?id=3180499376467108527_3099591977",
+            }, {
+                "id": 3,
+                "title": "Turks and Caicos overview 🇹🇨",
+                "link": "instagram://media?id=3178225944019632347_3099591977",
+                "type": "video"
+            }],
+        },
+            {
+                "id": "caribbean/cayman",
+                "title": "Cayman Islands 🇰🇾",
+                "posts": [{
+                "id": 1,
+                "title": "Grand Cayman Overview 🇰🇾",
+                "link": "instagram://media?id=3417246812699412879_3099591977",
+            }]
+        }],
     },
     {
         "id": "usa",
