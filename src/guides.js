@@ -531,6 +531,10 @@ export const guides = [
                             "id": "usa/pacific/california/silicon-valley",
                             "title": "Silicon Valley",
                             "posts": [{
+                                "id": 5,
+                                "title": "Business trip, Oct 2023",
+                                "link": "instagram://media?id=3351945496674734893_3099591977",
+                            }, {
                                 "id": 1,
                                 "title": "Business trip, Sep 2022",
                                 "link": "instagram://media?id=3013873600986352722_3099591977",
