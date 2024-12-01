@@ -188,23 +188,23 @@ export const guides = [
             "title": "Mexico City",
             "posts": [{
                 "id": 1,
-                "title": "Cuauhtemoc, Nov 2023",
+                "title": "Cuauhtemoc",
                 "link": "instagram://media?id=3379112918761463466_3099591977",
             }, {
                 "id": 2,
-                "title": "Teotihuacan, Nov 2023",
+                "title": "Teotihuacan",
                 "link": "instagram://media?id=3387063695287016476_3099591977",
             }, {
                 "id": 3,
-                "title": "Chapultepec, Nov 2023",
+                "title": "Chapultepec",
                 "link": "instagram://media?id=3391364946177818789_3099591977",
             }, {
                 "id": 4,
-                "title": "Coyoacan, Nov 2023",
+                "title": "Coyoacan",
                 "link": "instagram://media?id=3397135888684024023_3099591977",
             }, {
                 "id": 5,
-                "title": "Tenochtitlan, Nov 2023",
+                "title": "Tenochtitlan",
                 "link": "instagram://media?id=3403050642061045653_3099591977",
             }]
         }],
@@ -230,15 +230,30 @@ export const guides = [
                 "link": "instagram://media?id=3178225944019632347_3099591977",
                 "type": "video"
             }],
-        },
-            {
-                "id": "caribbean/cayman",
-                "title": "Cayman Islands 🇰🇾",
+        }, {
+            "id": "caribbean/cayman",
+            "title": "Cayman Islands 🇰🇾",
                 "posts": [{
-                "id": 1,
-                "title": "Grand Cayman Overview 🇰🇾",
-                "link": "instagram://media?id=3417246812699412879_3099591977",
-            }]
+                    "id": 1,
+                    "title": "Grand Cayman Overview 🇰🇾",
+                    "link": "instagram://media?id=3417246812699412879_3099591977",
+                }, {
+                    "id": 2,
+                    "title": "Grand Cayman, Part 1",
+                    "link": "instagram://media?id=3434027767930007854_3099591977",
+                }, {
+                    "id": 3,
+                    "title": "Grand Cayman, Part 2",
+                    "link": "instagram://media?id=3438175871368597691_3099591977",
+                }, {
+                    "id": 4,
+                    "title": "Snorkeling 🤿",
+                    "link": "instagram://media?id=3446246740415038451_3099591977",
+                }, {
+                    "id": 5,
+                    "title": "Diving 🤿",
+                    "link": "instagram://media?id=3471048414094613993_3099591977",
+                }]
         }],
     },
     {
