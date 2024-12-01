@@ -108,6 +108,14 @@ export const guides = [
             "id": "canada/vancouver",
             "title": "Vancouver",
             "posts": [{
+                "id": 6,
+                "title": "Vancouver, Mar 2024",
+                "link": "instagram://media?id=3497134145648821524_3099591977",
+            },{
+                "id": 4,
+                "title": "Ванкувер летом 2023",
+                "link": "instagram://media?id=3284921576012157301_3099591977",
+            }, {
                 "id": 1,
                 "title": "Horseshoe Bay",
                 "link": "instagram://media?id=2218096842146469163_3099591977",
@@ -119,11 +127,7 @@ export const guides = [
                 "id": 3,
                 "title": "Первый раз в Ванкувере, зима 2019",
                 "link": "instagram://media?id=2197813379598126616_3099591977",
-            }, {
-                "id": 4,
-                "title": "Ванкувер летом 2023",
-                "link": "instagram://media?id=3284921576012157301_3099591977",
-            }, {
+            },  {
                 "id": 5,
                 "title": "Maneskin in Vancouver",
                 "link": "instagram://media?id=3329868246311134491_3099591977",
