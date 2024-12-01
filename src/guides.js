@@ -1287,6 +1287,11 @@ export const guides = [
                 "title": "Camping",
                 "link": "instagram://media?id=3279046214220027972_3099591977",
             },
+            {
+                "id": 2,
+                "title": "Girls retreat",
+                "link": "instagram://media?id=3482407632902086299_3099591977",
+            },
         ],
         "guides": [{
             "id": "activities/snorkeling",
@@ -1300,10 +1305,30 @@ export const guides = [
                 "title": "On Big Island, Hawaii",
                 "link": "instagram://media?id=3071710655396949142_3099591977",
             }, {
+                "id": 5,
+                "title": "On Turks and Caicos - part 1",
+                "link": "instagram://media?id=3176718604343775996_3099591977",
+            }, {
                 "id": 3,
-                "title": "On Turks and Caicos",
+                "title": "On Turks and Caicos - part 2",
                 "link": "instagram://media?id=3180499376467108527_3099591977",
-            },]
+            }, {
+                "id": 4,
+                "title": "On Grand Cayman",
+                "link": "instagram://media?id=3446246740415038451_3099591977",
+            }]
+        }, {
+            "id": "activities/diving",
+            "title": "Diving 🤿",
+            "posts": [{
+                "id": 1,
+                "title": "Tried Scuba Diving on Turks and Caicos",
+                "link": "instagram://media?id=3180499376467108527_3099591977",
+            },  {
+                "id": 2,
+                "title": "Got OW Certified on Grand Cayman",
+                "link": "instagram://media?id=3471048414094613993_3099591977",
+            }]
         }, {
             "id": "activities/skiing",
             "title": "Skiing 🎿",
