@@ -167,19 +167,47 @@ export const guides = [
         "id": "mexico",
         "title": "Mexico 🇲🇽",
         "order": 3,
-        "posts": [{
-            "id": 1,
+        "guides": [{
+            "id": "mexico/cabo",
             "title": "Cabo San Lucas",
-            "link": "instagram://media?id=2429687751095109928_3099591977",
+            "posts": [{
+                "id": 1,
+                "title": "Cabo San Lucas",
+                "link": "instagram://media?id=2429687751095109928_3099591977",
+            }, {
+                "id": 2,
+                "title": "Кабо - Экскурсия в море",
+                "link": "instagram://media?id=2434037176890384355_3099591977",
+            }, {
+                "id": 3,
+                "title": "Тихий океан в Кабо",
+                "link": "instagram://media?id=2446181138535047380_3099591977",
+            }]
         }, {
-            "id": 2,
-            "title": "Кабо - Экскурсия в море",
-            "link": "instagram://media?id=2434037176890384355_3099591977",
-        }, {
-            "id": 3,
-            "title": "Тихий океан в Кабо",
-            "link": "instagram://media?id=2446181138535047380_3099591977",
-        }]
+            "id": "mexico/cdmx",
+            "title": "Mexico City",
+            "posts": [{
+                "id": 1,
+                "title": "Cuauhtemoc, Nov 2023",
+                "link": "instagram://media?id=3379112918761463466_3099591977",
+            }, {
+                "id": 2,
+                "title": "Teotihuacan, Nov 2023",
+                "link": "instagram://media?id=3387063695287016476_3099591977",
+            }, {
+                "id": 3,
+                "title": "Chapultepec, Nov 2023",
+                "link": "instagram://media?id=3391364946177818789_3099591977",
+            }, {
+                "id": 4,
+                "title": "Coyoacan, Nov 2023",
+                "link": "instagram://media?id=3397135888684024023_3099591977",
+            }, {
+                "id": 5,
+                "title": "Tenochtitlan, Nov 2023",
+                "link": "instagram://media?id=3403050642061045653_3099591977",
+            }]
+        }],
     },
     {
         "id": "caribbean",
