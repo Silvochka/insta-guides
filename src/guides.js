@@ -296,6 +296,10 @@ export const guides = [
                                     "id": "usa/pacific/wa/cities/tacoma",
                                     "title": "Tacoma",
                                     "posts": [{
+                                        "id": 3,
+                                        "title": "Girls retreat, Mar 2024",
+                                        "link": "instagram://media?id=3482407632902086299_3099591977",
+                                    }, {
                                         "id": 1,
                                         "title": "In 2022",
                                         "link": "instagram://media?id=2804430041167438225_3099591977",
