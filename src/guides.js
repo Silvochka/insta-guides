@@ -877,6 +877,10 @@ export const guides = [
                     "id": "usa/south/florida",
                     "title": "Florida",
                     "posts": [{
+                        "id": 4,
+                        "title": "Miami",
+                        "link": "instagram://media?id=3478126351184615398_3099591977",
+                    }, {
                         "id": 1,
                         "title": "Cape Canaveral",
                         "link": "instagram://media?id=2176071718635082293_3099591977",
